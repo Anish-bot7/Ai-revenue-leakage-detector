@@ -1,0 +1,201 @@
+Contract_ID,Service_Type,Plan_Name,Unit_Price,Estimated_Usage,Contract_Price,Discount_Allowed,Tax_Rate,Billing_Cycle,Contract_Duration,SLA_Level
+CON00001,SaaS,ERP,25,1320,33000,10,18,Yearly,12,Gold
+CON00002,Voice,Voice Premium,5,1939,9695,0,18,Yearly,24,Silver
+CON00003,Cloud,Basic Cloud,20,882,17640,15,18,Monthly,24,Platinum
+CON00004,Voice,Voice Basic,5,2127,10635,10,18,Monthly,36,Gold
+CON00005,SaaS,HRMS,25,2686,67150,15,18,Yearly,24,Bronze
+CON00006,Cloud,Enterprise Cloud,20,2651,53020,5,18,Monthly,24,Platinum
+CON00007,Internet,Fiber 1000,10,1498,14980,0,18,Monthly,12,Bronze
+CON00008,SaaS,ERP,25,2546,63650,15,18,Yearly,36,Bronze
+CON00009,Internet,Fiber 1000,10,2208,22080,10,18,Quarterly,24,Bronze
+CON00010,Voice,Voice Basic,5,1476,7380,15,18,Monthly,12,Silver
+CON00011,Internet,Fiber 300,10,1382,13820,10,18,Quarterly,12,Platinum
+CON00012,Security,SOC,15,1194,17910,5,18,Quarterly,36,Gold
+CON00013,Cloud,Business Cloud,20,898,17960,10,18,Yearly,36,Platinum
+CON00014,Cloud,Enterprise Cloud,20,2214,44280,0,18,Quarterly,24,Gold
+CON00015,Internet,Fiber 1000,10,2546,25460,10,18,Yearly,36,Bronze
+CON00016,Voice,Voice Premium,5,2363,11815,15,18,Monthly,36,Bronze
+CON00017,Cloud,Basic Cloud,20,1339,26780,10,18,Yearly,12,Silver
+CON00018,Voice,Voice Basic,5,1536,7680,10,18,Quarterly,12,Bronze
+CON00019,Internet,Fiber 300,10,2249,22490,10,18,Yearly,12,Silver
+CON00020,Internet,Fiber 300,10,776,7760,15,18,Quarterly,24,Bronze
+CON00021,Voice,Voice Premium,5,556,2780,5,18,Yearly,24,Gold
+CON00022,Voice,Voice Premium,5,612,3060,15,18,Yearly,24,Silver
+CON00023,Voice,Voice Basic,5,2072,10360,0,18,Yearly,12,Bronze
+CON00024,SaaS,CRM,25,756,18900,15,18,Yearly,12,Silver
+CON00025,Cloud,Business Cloud,20,913,18260,10,18,Quarterly,24,Gold
+CON00026,Voice,Voice Premium,5,1409,7045,15,18,Monthly,36,Bronze
+CON00027,Internet,Fiber 100,10,2630,26300,10,18,Quarterly,12,Platinum
+CON00028,Internet,Fiber 100,10,661,6610,5,18,Quarterly,36,Platinum
+CON00029,Internet,Fiber 300,10,1536,15360,15,18,Yearly,24,Gold
+CON00030,Security,SOC,15,1738,26070,5,18,Quarterly,36,Gold
+CON00031,Voice,Voice Premium,5,2088,10440,10,18,Monthly,12,Bronze
+CON00032,Cloud,Business Cloud,20,2056,41120,10,18,Monthly,12,Gold
+CON00033,Cloud,Basic Cloud,20,2578,51560,0,18,Yearly,24,Gold
+CON00034,Internet,Fiber 300,10,2087,20870,15,18,Quarterly,24,Silver
+CON00035,Internet,Fiber 300,10,2955,29550,10,18,Quarterly,12,Silver
+CON00036,Security,Firewall,15,1994,29910,15,18,Quarterly,36,Platinum
+CON00037,Internet,Fiber 300,10,1598,15980,0,18,Monthly,24,Gold
+CON00038,Cloud,Enterprise Cloud,20,2384,47680,5,18,Quarterly,12,Platinum
+CON00039,Cloud,Enterprise Cloud,20,2299,45980,0,18,Quarterly,24,Bronze
+CON00040,Security,Firewall,15,1167,17505,10,18,Monthly,12,Bronze
+CON00041,Voice,Voice Basic,5,2446,12230,5,18,Quarterly,12,Gold
+CON00042,Voice,Voice Basic,5,2724,13620,5,18,Yearly,36,Bronze
+CON00043,Cloud,Business Cloud,20,2765,55300,0,18,Monthly,36,Platinum
+CON00044,Voice,Voice Basic,5,1405,7025,10,18,Yearly,36,Bronze
+CON00045,SaaS,HRMS,25,1624,40600,0,18,Yearly,12,Bronze
+CON00046,Security,Endpoint Security,15,2129,31935,0,18,Monthly,12,Platinum
+CON00047,Voice,Voice Basic,5,1412,7060,0,18,Quarterly,12,Platinum
+CON00048,Security,Firewall,15,2019,30285,5,18,Quarterly,36,Gold
+CON00049,Security,Firewall,15,1536,23040,5,18,Monthly,36,Bronze
+CON00050,Security,Endpoint Security,15,1148,17220,0,18,Quarterly,24,Gold
+CON00051,Cloud,Basic Cloud,20,1696,33920,0,18,Quarterly,36,Bronze
+CON00052,Security,SOC,15,1551,23265,5,18,Monthly,36,Platinum
+CON00053,Cloud,Basic Cloud,20,2774,55480,0,18,Monthly,36,Bronze
+CON00054,Internet,Fiber 100,10,2600,26000,5,18,Quarterly,36,Bronze
+CON00055,SaaS,ERP,25,2505,62625,0,18,Quarterly,24,Silver
+CON00056,Voice,Voice Basic,5,2658,13290,5,18,Monthly,36,Platinum
+CON00057,Security,Firewall,15,2956,44340,15,18,Quarterly,36,Platinum
+CON00058,Internet,Fiber 300,10,618,6180,15,18,Yearly,12,Bronze
+CON00059,Security,SOC,15,2205,33075,10,18,Yearly,36,Silver
+CON00060,Cloud,Business Cloud,20,2259,45180,0,18,Monthly,12,Bronze
+CON00061,Internet,Fiber 1000,10,2559,25590,15,18,Yearly,12,Bronze
+CON00062,Security,Firewall,15,806,12090,0,18,Yearly,36,Platinum
+CON00063,Cloud,Enterprise Cloud,20,1979,39580,0,18,Quarterly,12,Gold
+CON00064,Security,Endpoint Security,15,988,14820,0,18,Quarterly,12,Silver
+CON00065,Security,Firewall,15,1647,24705,10,18,Quarterly,36,Platinum
+CON00066,Internet,Fiber 100,10,2347,23470,15,18,Quarterly,36,Gold
+CON00067,Security,SOC,15,2052,30780,10,18,Quarterly,12,Platinum
+CON00068,Internet,Fiber 100,10,1917,19170,10,18,Monthly,24,Gold
+CON00069,Voice,Voice Basic,5,1591,7955,10,18,Yearly,12,Platinum
+CON00070,Voice,Voice Basic,5,1572,7860,10,18,Quarterly,12,Platinum
+CON00071,Security,Firewall,15,658,9870,0,18,Quarterly,36,Silver
+CON00072,Internet,Fiber 100,10,2552,25520,15,18,Monthly,24,Gold
+CON00073,Cloud,Business Cloud,20,2446,48920,5,18,Yearly,24,Platinum
+CON00074,SaaS,ERP,25,2081,52025,0,18,Quarterly,12,Silver
+CON00075,Internet,Fiber 300,10,2849,28490,0,18,Yearly,24,Silver
+CON00076,Voice,Voice Premium,5,1616,8080,15,18,Monthly,24,Gold
+CON00077,Security,Firewall,15,2878,43170,0,18,Quarterly,12,Gold
+CON00078,Security,SOC,15,2819,42285,15,18,Yearly,12,Platinum
+CON00079,Voice,Voice Premium,5,1855,9275,10,18,Monthly,24,Bronze
+CON00080,Internet,Fiber 1000,10,2858,28580,5,18,Quarterly,36,Silver
+CON00081,Internet,Fiber 300,10,1296,12960,10,18,Monthly,36,Silver
+CON00082,Cloud,Enterprise Cloud,20,744,14880,15,18,Quarterly,36,Silver
+CON00083,SaaS,ERP,25,2519,62975,10,18,Quarterly,24,Bronze
+CON00084,Voice,Voice Basic,5,686,3430,15,18,Quarterly,12,Silver
+CON00085,SaaS,ERP,25,2968,74200,5,18,Monthly,12,Platinum
+CON00086,Security,SOC,15,2718,40770,0,18,Quarterly,36,Platinum
+CON00087,Internet,Fiber 1000,10,848,8480,10,18,Monthly,36,Bronze
+CON00088,Internet,Fiber 100,10,1166,11660,5,18,Yearly,24,Bronze
+CON00089,Cloud,Basic Cloud,20,1479,29580,15,18,Monthly,36,Silver
+CON00090,Voice,Voice Basic,5,773,3865,0,18,Monthly,12,Platinum
+CON00091,SaaS,HRMS,25,2871,71775,0,18,Quarterly,24,Bronze
+CON00092,Internet,Fiber 300,10,1927,19270,15,18,Yearly,12,Silver
+CON00093,Voice,Voice Basic,5,604,3020,0,18,Quarterly,12,Bronze
+CON00094,Cloud,Business Cloud,20,2272,45440,0,18,Monthly,24,Platinum
+CON00095,SaaS,HRMS,25,1160,29000,10,18,Quarterly,36,Gold
+CON00096,Voice,Voice Basic,5,2538,12690,10,18,Quarterly,36,Platinum
+CON00097,SaaS,CRM,25,2679,66975,10,18,Quarterly,24,Platinum
+CON00098,Internet,Fiber 100,10,1891,18910,10,18,Yearly,12,Silver
+CON00099,Security,SOC,15,974,14610,15,18,Quarterly,12,Gold
+CON00100,Voice,Voice Basic,5,1890,9450,15,18,Yearly,12,Platinum
+CON00101,SaaS,ERP,25,789,19725,0,18,Monthly,12,Gold
+CON00102,SaaS,HRMS,25,1080,27000,10,18,Quarterly,12,Bronze
+CON00103,Cloud,Basic Cloud,20,1199,23980,5,18,Quarterly,12,Bronze
+CON00104,Cloud,Business Cloud,20,2138,42760,5,18,Monthly,36,Bronze
+CON00105,Security,Endpoint Security,15,841,12615,10,18,Quarterly,36,Gold
+CON00106,Security,Endpoint Security,15,2488,37320,0,18,Yearly,12,Silver
+CON00107,Internet,Fiber 300,10,1368,13680,0,18,Yearly,24,Gold
+CON00108,Cloud,Business Cloud,20,2409,48180,15,18,Yearly,36,Platinum
+CON00109,SaaS,ERP,25,2491,62275,0,18,Yearly,12,Gold
+CON00110,Internet,Fiber 300,10,2709,27090,10,18,Quarterly,36,Bronze
+CON00111,Cloud,Enterprise Cloud,20,2083,41660,15,18,Yearly,24,Bronze
+CON00112,Voice,Voice Basic,5,2356,11780,10,18,Monthly,12,Gold
+CON00113,Security,Firewall,15,1394,20910,15,18,Quarterly,12,Platinum
+CON00114,Voice,Voice Premium,5,1506,7530,10,18,Quarterly,12,Gold
+CON00115,SaaS,ERP,25,1262,31550,0,18,Monthly,12,Bronze
+CON00116,SaaS,ERP,25,1863,46575,15,18,Monthly,24,Gold
+CON00117,Cloud,Enterprise Cloud,20,1599,31980,15,18,Yearly,12,Bronze
+CON00118,Cloud,Basic Cloud,20,1997,39940,10,18,Quarterly,36,Bronze
+CON00119,Voice,Voice Basic,5,577,2885,5,18,Monthly,36,Silver
+CON00120,Internet,Fiber 100,10,2423,24230,15,18,Yearly,36,Bronze
+CON00121,Voice,Voice Premium,5,1492,7460,0,18,Yearly,12,Bronze
+CON00122,Cloud,Basic Cloud,20,889,17780,15,18,Monthly,36,Platinum
+CON00123,Voice,Voice Basic,5,1981,9905,0,18,Yearly,36,Platinum
+CON00124,Security,Endpoint Security,15,1382,20730,0,18,Monthly,24,Platinum
+CON00125,Voice,Voice Premium,5,1094,5470,10,18,Quarterly,36,Platinum
+CON00126,Security,Firewall,15,1535,23025,5,18,Monthly,12,Gold
+CON00127,SaaS,HRMS,25,1016,25400,0,18,Quarterly,12,Bronze
+CON00128,Voice,Voice Basic,5,549,2745,15,18,Monthly,24,Gold
+CON00129,SaaS,HRMS,25,951,23775,0,18,Monthly,24,Platinum
+CON00130,Voice,Voice Premium,5,1259,6295,15,18,Monthly,24,Platinum
+CON00131,Internet,Fiber 1000,10,860,8600,0,18,Quarterly,24,Silver
+CON00132,SaaS,ERP,25,2869,71725,5,18,Quarterly,12,Bronze
+CON00133,Security,SOC,15,2488,37320,5,18,Quarterly,12,Platinum
+CON00134,Cloud,Basic Cloud,20,2212,44240,15,18,Yearly,36,Gold
+CON00135,Voice,Voice Premium,5,2326,11630,15,18,Quarterly,24,Platinum
+CON00136,Internet,Fiber 300,10,653,6530,10,18,Yearly,24,Gold
+CON00137,Voice,Voice Basic,5,2777,13885,15,18,Yearly,36,Bronze
+CON00138,Security,Endpoint Security,15,2914,43710,5,18,Quarterly,36,Bronze
+CON00139,Internet,Fiber 300,10,1657,16570,10,18,Yearly,36,Silver
+CON00140,Cloud,Basic Cloud,20,1244,24880,10,18,Yearly,24,Platinum
+CON00141,Internet,Fiber 100,10,1677,16770,0,18,Quarterly,12,Bronze
+CON00142,Voice,Voice Premium,5,1059,5295,0,18,Yearly,36,Platinum
+CON00143,Security,SOC,15,524,7860,0,18,Monthly,24,Bronze
+CON00144,SaaS,HRMS,25,582,14550,0,18,Quarterly,12,Platinum
+CON00145,Cloud,Basic Cloud,20,1117,22340,15,18,Quarterly,24,Platinum
+CON00146,Cloud,Business Cloud,20,2318,46360,5,18,Quarterly,24,Gold
+CON00147,Security,Endpoint Security,15,1932,28980,15,18,Yearly,12,Gold
+CON00148,Security,Firewall,15,572,8580,10,18,Quarterly,36,Gold
+CON00149,Security,Firewall,15,2924,43860,0,18,Quarterly,36,Silver
+CON00150,Security,Firewall,15,868,13020,0,18,Yearly,36,Gold
+CON00151,Security,Endpoint Security,15,2540,38100,5,18,Monthly,36,Gold
+CON00152,Internet,Fiber 1000,10,1445,14450,10,18,Quarterly,12,Silver
+CON00153,Cloud,Enterprise Cloud,20,2129,42580,15,18,Yearly,24,Silver
+CON00154,Internet,Fiber 300,10,774,7740,15,18,Yearly,36,Gold
+CON00155,SaaS,ERP,25,2493,62325,5,18,Monthly,36,Gold
+CON00156,Voice,Voice Premium,5,993,4965,5,18,Monthly,36,Bronze
+CON00157,SaaS,ERP,25,794,19850,0,18,Monthly,36,Silver
+CON00158,SaaS,CRM,25,1067,26675,10,18,Monthly,24,Silver
+CON00159,SaaS,ERP,25,2670,66750,15,18,Quarterly,36,Silver
+CON00160,Security,SOC,15,2072,31080,10,18,Quarterly,36,Silver
+CON00161,Voice,Voice Premium,5,1728,8640,15,18,Quarterly,12,Platinum
+CON00162,SaaS,HRMS,25,2635,65875,15,18,Yearly,24,Bronze
+CON00163,Voice,Voice Premium,5,2277,11385,0,18,Monthly,24,Silver
+CON00164,SaaS,CRM,25,2532,63300,5,18,Monthly,12,Silver
+CON00165,Voice,Voice Basic,5,2119,10595,10,18,Yearly,36,Platinum
+CON00166,SaaS,CRM,25,2859,71475,5,18,Yearly,36,Bronze
+CON00167,SaaS,CRM,25,2413,60325,15,18,Monthly,36,Bronze
+CON00168,SaaS,ERP,25,1700,42500,5,18,Quarterly,24,Gold
+CON00169,Cloud,Basic Cloud,20,636,12720,5,18,Yearly,12,Bronze
+CON00170,Voice,Voice Basic,5,2972,14860,5,18,Monthly,24,Silver
+CON00171,Cloud,Enterprise Cloud,20,2961,59220,0,18,Yearly,36,Silver
+CON00172,Cloud,Basic Cloud,20,2200,44000,10,18,Monthly,36,Platinum
+CON00173,Security,Endpoint Security,15,1568,23520,0,18,Yearly,36,Platinum
+CON00174,SaaS,ERP,25,1145,28625,15,18,Quarterly,12,Silver
+CON00175,Cloud,Business Cloud,20,1137,22740,10,18,Quarterly,12,Gold
+CON00176,Internet,Fiber 300,10,614,6140,15,18,Quarterly,36,Bronze
+CON00177,Internet,Fiber 1000,10,2794,27940,10,18,Quarterly,24,Gold
+CON00178,Voice,Voice Premium,5,911,4555,15,18,Yearly,36,Bronze
+CON00179,Cloud,Enterprise Cloud,20,518,10360,10,18,Quarterly,12,Platinum
+CON00180,Internet,Fiber 100,10,1445,14450,5,18,Yearly,12,Bronze
+CON00181,Cloud,Business Cloud,20,738,14760,0,18,Monthly,12,Bronze
+CON00182,SaaS,CRM,25,1355,33875,5,18,Monthly,36,Gold
+CON00183,SaaS,CRM,25,804,20100,10,18,Yearly,24,Silver
+CON00184,Cloud,Enterprise Cloud,20,692,13840,0,18,Quarterly,12,Bronze
+CON00185,Voice,Voice Basic,5,2288,11440,10,18,Yearly,36,Bronze
+CON00186,SaaS,HRMS,25,1903,47575,15,18,Monthly,24,Silver
+CON00187,Security,Firewall,15,1004,15060,5,18,Monthly,12,Gold
+CON00188,Security,Endpoint Security,15,1722,25830,5,18,Monthly,24,Gold
+CON00189,Voice,Voice Premium,5,928,4640,10,18,Yearly,12,Gold
+CON00190,SaaS,ERP,25,2604,65100,15,18,Quarterly,24,Gold
+CON00191,Internet,Fiber 300,10,2732,27320,15,18,Yearly,24,Platinum
+CON00192,Security,Firewall,15,1184,17760,5,18,Quarterly,12,Bronze
+CON00193,SaaS,ERP,25,1031,25775,15,18,Monthly,36,Gold
+CON00194,Internet,Fiber 100,10,2374,23740,10,18,Quarterly,36,Silver
+CON00195,Voice,Voice Basic,5,1143,5715,10,18,Yearly,24,Silver
+CON00196,Voice,Voice Premium,5,1397,6985,5,18,Monthly,36,Bronze
+CON00197,Security,Endpoint Security,15,2864,42960,15,18,Yearly,24,Platinum
+CON00198,Cloud,Basic Cloud,20,2861,57220,0,18,Monthly,24,Silver
+CON00199,Internet,Fiber 100,10,1734,17340,15,18,Monthly,36,Gold
+CON00200,Security,Firewall,15,719,10785,5,18,Monthly,36,Silver
