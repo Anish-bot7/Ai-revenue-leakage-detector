@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Customer_Type,Industry,Region,Country,City,Email,Phone,Registration_Date,Account_Status,Payment_Terms,Credit_Limit,Account_Manager
+CUST00001,"Rodriguez, Figueroa and Sanchez",Government,Telecom,North,UK,Lake Curtis,garzaanthony@robinson.org,2834863794,2025-03-11,Active,Net 15,104886,Priya Nair
+CUST00002,Ramirez-Lewis,Government,Logistics,East,UK,Curtisfurt,howardmaurice@roman-blair.net,361-284-9593,2023-07-15,Active,Net 60,241335,John Thomas
+CUST00003,Galloway-Wyatt,SMB,Manufacturing,South,Singapore,South Joshuastad,mitchellclark@miles-sutton.com,+1-528-232-7648x350,2024-04-12,Inactive,Net 30,249041,Arjun Kumar
+CUST00004,Adams-Clark,Enterprise,IT,West,USA,Jasonfort,pwilkerson@thomas-taylor.net,+1-949-369-6532,2021-12-30,Inactive,Net 15,308795,Rahul Sharma
+CUST00005,Hernandez and Sons,Enterprise,Healthcare,East,USA,Carlsonfurt,dcarlson@king.com,+1-384-651-4627x04828,2025-11-30,Suspended,Net 30,179981,John Thomas
+CUST00006,"Gonzalez, Brooks and Martin",Retail,Logistics,West,India,New Mariotown,hickmannatasha@allen-allen.org,417-618-2278,2026-01-31,Suspended,Net 15,578178,Sneha Patel
+CUST00007,"Henderson, Lewis and Ryan",Enterprise,Logistics,South,Singapore,Lake Larry,samuel87@wright.com,5983393010,2021-11-11,Active,Net 60,289629,Priya Nair
+CUST00008,Jones-Young,SMB,IT,South,Australia,Lewisberg,esanchez@lee-davis.biz,(566)970-1065x133,2022-10-15,Inactive,Net 60,301995,Arjun Kumar
+CUST00009,White-Ford,Government,Telecom,North,UK,South Lindseyside,williamsyvette@novak.com,(977)436-0260x64746,2023-03-18,Inactive,Net 15,510337,Arjun Kumar
+CUST00010,Robinson-Brown,SMB,Education,South,USA,Lake Leeton,hshaw@brown.com,(219)313-6193,2025-02-28,Inactive,Net 15,488974,Priya Nair
+CUST00011,"Silva, Mills and Donovan",SMB,Telecom,South,USA,Lake Jennifer,josephanderson@evans.com,6794911838,2024-07-25,Inactive,Net 60,585822,Arjun Kumar
+CUST00012,Suarez LLC,Enterprise,Education,West,Australia,Ericside,cheryl80@montoya.com,911-682-4493x534,2022-01-10,Active,Net 30,657086,Sneha Patel
+CUST00013,Walters LLC,Retail,Finance,North,Singapore,North Matthewberg,evan78@patterson.com,+1-605-798-2620,2021-12-07,Active,Net 15,612332,Sneha Patel
+CUST00014,Clark-Wright,Enterprise,IT,East,India,West Kimberlychester,sarayoung@cherry.biz,2259634216,2023-06-28,Active,Net 60,183767,John Thomas
+CUST00015,Velasquez Group,Government,IT,West,UK,Kevinbury,andrewlee@ramirez-jones.com,(386)885-0142x940,2024-07-15,Suspended,Net 15,62666,Sneha Patel
+CUST00016,"Hartman, Graham and Joyce",SMB,Logistics,South,India,South Rachelborough,bradley60@frost.com,(861)659-5148x465,2026-04-24,Suspended,Net 15,80535,Arjun Kumar
+CUST00017,Lee Ltd,SMB,IT,West,Australia,Byrdburgh,richard04@clark-floyd.org,+1-757-377-3872x1489,2023-08-05,Suspended,Net 60,506551,John Thomas
+CUST00018,"Collins, Drake and Hernandez",Government,IT,East,Australia,East Traceyland,operry@lee.com,(501)363-2870,2025-06-24,Suspended,Net 30,208338,Rahul Sharma
+CUST00019,Solis Ltd,Enterprise,Finance,East,UK,Stephaniemouth,jrivas@merritt-manning.info,643.748.7347x143,2024-04-25,Active,Net 45,268126,Priya Nair
+CUST00020,"Miller, Hernandez and Reyes",SMB,Telecom,North,UK,Lake Jason,irussell@perry-clark.biz,(590)996-7054x6688,2023-06-18,Suspended,Net 60,822838,Rahul Sharma
+CUST00021,Graham-Johnson,Retail,Manufacturing,West,Singapore,Elizabethfurt,marycalhoun@ferguson.com,562-972-0465,2024-05-17,Inactive,Net 15,155878,Sneha Patel
+CUST00022,Juarez-Gray,Government,Healthcare,North,Singapore,Kingland,ismith@cooke.com,+1-510-903-3092x3271,2023-10-11,Active,Net 60,911882,John Thomas
+CUST00023,Jackson-Lawson,SMB,Telecom,South,USA,Port Loriport,lanesarah@byrd.com,793-814-9190,2024-09-30,Active,Net 30,492296,Sneha Patel
+CUST00024,Hunter LLC,SMB,Telecom,West,Singapore,Port Robertfort,hamiltonmichael@zimmerman-graham.net,+1-949-587-7694x5314,2025-07-19,Inactive,Net 30,202906,Priya Nair
+CUST00025,"Bishop, Gray and Johnson",Government,Telecom,North,India,Hunterborough,lauren54@haynes.com,236-378-3777,2024-02-06,Active,Net 15,504589,Rahul Sharma
+CUST00026,Sullivan and Sons,Retail,Manufacturing,North,UK,Elizabethstad,wtran@barajas-pierce.com,001-574-544-3135x182,2025-09-18,Suspended,Net 30,71959,John Thomas
+CUST00027,Hardy-Bray,Enterprise,Education,North,India,Tinaborough,jeremy24@erickson.com,6089427109,2025-09-01,Suspended,Net 30,964091,John Thomas
+CUST00028,Peterson-Sheppard,SMB,IT,West,India,Shelleyfort,shortrichard@ray.com,(529)841-3186,2025-06-05,Inactive,Net 15,89353,Arjun Kumar
+CUST00029,Evans-Chapman,Retail,Education,East,USA,Torreston,mezajared@baker.com,928.612.0679,2021-11-15,Suspended,Net 15,641460,Rahul Sharma
+CUST00030,Roberts LLC,Retail,IT,East,India,Jonesbury,kristin93@wilson-walker.com,621-802-4994x717,2023-11-29,Inactive,Net 30,687147,Sneha Patel
+CUST00031,"Fernandez, Kim and George",Retail,IT,North,UK,Navarroview,davissuzanne@matthews.com,001-802-978-7429,2022-05-16,Inactive,Net 30,792452,Arjun Kumar
+CUST00032,Bailey-Cook,SMB,Education,West,Singapore,Port Eugenechester,zroberts@johnson.com,001-268-508-7603x85977,2023-11-13,Suspended,Net 45,159751,John Thomas
+CUST00033,"Anderson, Roberts and Gilmore",Enterprise,Logistics,South,Australia,Martinezbury,lancesmith@davis-gay.com,412.874.8467x737,2023-03-21,Inactive,Net 30,663333,John Thomas
+CUST00034,"Romero, Suarez and Shields",Government,IT,North,Singapore,Kendrachester,sarah84@campbell.org,001-872-978-7558,2024-05-01,Suspended,Net 30,101663,Sneha Patel
+CUST00035,Pollard and Sons,Government,Telecom,West,UK,Hallchester,floresthomas@hughes-alvarado.com,802.489.5171x8702,2022-03-26,Suspended,Net 30,609042,John Thomas
+CUST00036,Harrington-Baker,Retail,Logistics,West,India,Santosmouth,ofinley@clay.org,434-631-6117,2021-11-03,Active,Net 60,121295,Priya Nair
+CUST00037,Nguyen Inc,Retail,IT,East,Singapore,Michaelchester,johnjenkins@sparks.biz,+1-637-492-3747x407,2022-03-23,Active,Net 15,424705,Priya Nair
+CUST00038,Landry-Huerta,Government,Logistics,West,USA,Daniellechester,stephen43@castaneda-rodriguez.biz,001-259-944-0640,2024-01-12,Active,Net 60,520587,Rahul Sharma
+CUST00039,Lawson LLC,SMB,IT,West,Singapore,Lake James,erica21@lucas.org,(621)445-6232x858,2023-10-13,Active,Net 15,341999,John Thomas
+CUST00040,Coffey-Phillips,Government,IT,North,UK,Lindamouth,taylortammy@ramsey.net,(716)304-8175x496,2023-08-02,Suspended,Net 60,640978,Arjun Kumar
+CUST00041,Johnson-Henson,Retail,Education,West,India,Rosebury,reidsteven@turner.com,471-813-8267x5869,2022-06-09,Suspended,Net 15,82711,Arjun Kumar
+CUST00042,Gilbert-Crosby,SMB,Telecom,South,UK,Antoniostad,scottsampson@garcia-jennings.net,+1-750-564-3171x3900,2022-09-01,Inactive,Net 15,787378,Rahul Sharma
+CUST00043,"Harris, Gallegos and Spencer",Enterprise,Finance,West,USA,Port Molly,kim90@garrison-thomas.com,+1-742-210-2053,2023-01-29,Inactive,Net 30,831474,Sneha Patel
+CUST00044,Williams-Harmon,Enterprise,Telecom,North,Singapore,Lake Brycemouth,william17@walker.net,470-307-6617x7115,2022-09-02,Active,Net 30,927844,Arjun Kumar
+CUST00045,Weber-Richards,Retail,Logistics,East,India,Oscarhaven,shawn96@mcguire.net,001-736-673-6576x6156,2024-10-11,Active,Net 60,775451,John Thomas
+CUST00046,Mcdaniel Group,Government,Education,East,Australia,North Marieland,vdavis@cain-hawkins.org,+1-685-716-5604,2022-06-23,Suspended,Net 30,449111,John Thomas
+CUST00047,"Romero, Moore and Olson",Government,Finance,North,India,West Meganstad,farmeraudrey@bruce-villegas.org,+1-480-494-0244x550,2026-05-31,Suspended,Net 60,710960,Sneha Patel
+CUST00048,"Morales, Thomas and Schultz",Retail,Manufacturing,West,UK,North Julieborough,vbarnes@wood.com,001-999-810-2290x14767,2023-12-02,Suspended,Net 60,946048,Rahul Sharma
+CUST00049,Fischer Inc,Retail,Telecom,South,Australia,Russellport,trose@walker.com,2349324451,2025-04-04,Inactive,Net 15,879957,John Thomas
+CUST00050,Anderson PLC,Retail,IT,North,Australia,New Angelica,charles06@stevens.com,001-769-466-4160,2025-07-05,Active,Net 30,488452,John Thomas
+CUST00051,"Gillespie, Davis and Richard",Retail,IT,West,Australia,South Brianna,fosterkyle@walker-maxwell.com,418.383.5523x12432,2023-02-07,Active,Net 60,318246,Rahul Sharma
+CUST00052,"Snyder, Webster and Wolf",Retail,Healthcare,West,USA,Maldonadoshire,michelle52@jones-ramos.com,690-358-1477x005,2022-05-13,Active,Net 30,563758,Priya Nair
+CUST00053,"Wheeler, Cruz and Carpenter",Government,Education,West,USA,South Reginashire,marcalvarez@rosario.com,618-820-3778x89255,2025-01-27,Suspended,Net 30,68070,Priya Nair
+CUST00054,Shelton-Williams,Government,Healthcare,South,USA,Cameronville,umitchell@brandt.com,001-825-746-2914,2022-09-07,Inactive,Net 15,208823,Rahul Sharma
+CUST00055,"Warner, Valentine and Osborn",Enterprise,Healthcare,South,Australia,Lake Ellenhaven,andrew42@peterson.com,222.714.1888,2022-09-17,Inactive,Net 45,492905,John Thomas
+CUST00056,"Bennett, Martin and Guerra",SMB,IT,West,Australia,Lake Samuel,udiaz@montes.com,001-873-483-4735x97746,2023-04-18,Inactive,Net 45,270984,Arjun Kumar
+CUST00057,"Taylor, Wright and Davidson",Enterprise,Telecom,North,Singapore,Angelaville,mitchellkathryn@cole-palmer.biz,737-550-6068,2024-11-17,Suspended,Net 45,174046,Arjun Kumar
+CUST00058,Brooks Inc,SMB,Finance,West,UK,Sarahmouth,devinmitchell@horton-taylor.info,390.610.4328x986,2023-08-14,Active,Net 30,755086,Sneha Patel
+CUST00059,Martinez-Allen,SMB,Finance,South,India,Brownfort,chenbailey@thomas.com,001-262-818-5188,2025-08-05,Inactive,Net 30,234078,John Thomas
+CUST00060,Reid LLC,Retail,Manufacturing,North,Australia,Juliestad,cooperjessica@garcia.com,3589527722,2021-11-28,Active,Net 45,661523,Sneha Patel
+CUST00061,Harris-Moody,Retail,Telecom,South,UK,West Sarahhaven,ihays@king-mullins.com,950-954-1566x7652,2024-09-20,Suspended,Net 60,123523,Sneha Patel
+CUST00062,"Adams, Miller and Coleman",SMB,Telecom,South,UK,Morrisonburgh,manuel15@phillips.com,001-775-470-5964x016,2021-11-10,Active,Net 60,394894,John Thomas
+CUST00063,Allison Ltd,Retail,Finance,East,USA,Johnsonland,kimberlydiaz@herring-johnson.com,+1-375-257-1928x56543,2023-03-07,Active,Net 30,58308,Rahul Sharma
+CUST00064,Holmes-Mcintyre,Retail,Manufacturing,North,USA,West Kimberlymouth,wendymitchell@gonzalez-taylor.com,427.715.5188x442,2025-12-03,Inactive,Net 15,967230,Priya Nair
+CUST00065,Martinez and Sons,Retail,Education,South,India,East Kristy,wardashley@lara-arnold.org,314-467-8669,2024-04-16,Active,Net 15,423632,Sneha Patel
+CUST00066,"Jones, Owens and Holmes",Government,Logistics,North,Australia,Port Kimberly,katrinaanderson@bartlett.com,422-653-5841x4384,2026-02-18,Suspended,Net 45,790427,Priya Nair
+CUST00067,Shaw and Sons,Retail,Healthcare,North,India,East Donna,megan90@miller.org,839-669-0784x473,2025-06-15,Active,Net 30,59435,Sneha Patel
+CUST00068,Barker and Sons,Government,IT,South,Singapore,Perrymouth,matthewthomas@flores.biz,(658)981-5371,2023-09-15,Active,Net 60,356063,Priya Nair
+CUST00069,Davis LLC,SMB,Manufacturing,East,Singapore,Linchester,sydneybarrera@peck-griffith.com,001-527-787-7470x16873,2022-01-04,Active,Net 30,109101,Sneha Patel
+CUST00070,Campbell PLC,Government,Finance,South,Australia,Mitchelltown,jordannicole@diaz.com,001-983-658-4168,2022-08-10,Inactive,Net 60,483374,Priya Nair
+CUST00071,Hester Group,SMB,Healthcare,South,India,Lauramouth,kari39@morales.com,687.729.8259x5269,2025-11-29,Active,Net 15,447827,Priya Nair
+CUST00072,"Patel, Erickson and Evans",Enterprise,Telecom,West,UK,West Markville,ysilva@wiggins.com,+1-299-330-9728x9623,2023-03-21,Inactive,Net 45,403824,Rahul Sharma
+CUST00073,Alexander Group,Enterprise,Healthcare,East,Australia,South Hannah,nshaw@salas-fitzgerald.com,001-728-738-5786x527,2023-11-05,Suspended,Net 15,88304,Priya Nair
+CUST00074,"Washington, Bernard and Ramirez",Government,Telecom,North,Australia,Jeffreyport,janet75@bailey-peck.com,919-686-6524x0415,2025-09-02,Suspended,Net 30,717521,Sneha Patel
+CUST00075,Harris PLC,Government,Finance,East,India,Sarahview,danielyang@sanchez.net,230.416.5712,2025-01-21,Inactive,Net 60,662956,Priya Nair
+CUST00076,"Donovan, Johns and Woods",SMB,Finance,South,USA,Port Tamara,justin01@andrews.com,(262)606-7240,2026-06-05,Suspended,Net 15,856790,Arjun Kumar
+CUST00077,"Rodriguez, Bird and Mitchell",SMB,Manufacturing,South,Australia,Smallberg,znelson@rivera.info,+1-742-305-4932x9668,2025-01-02,Suspended,Net 15,581831,Arjun Kumar
+CUST00078,"Davis, Holden and Woods",Enterprise,Manufacturing,North,India,North Jose,seanadams@turner-sharp.com,653-701-7426x841,2023-06-23,Inactive,Net 15,593176,John Thomas
+CUST00079,Bernard Group,Enterprise,Healthcare,West,Singapore,South Julie,robert87@pham.org,587-485-1910,2022-12-30,Inactive,Net 15,246582,Sneha Patel
+CUST00080,Bond-Ramos,Retail,IT,East,Australia,Lake Brandy,nolansean@chavez.biz,390.287.4064x039,2025-03-14,Suspended,Net 15,904882,Rahul Sharma
+CUST00081,Graves-Weaver,SMB,IT,North,Singapore,North Valeriefort,mitchellhector@cannon.biz,(867)466-1825x128,2023-06-28,Active,Net 30,169180,John Thomas
+CUST00082,Avila LLC,Government,IT,West,Singapore,Nunezside,opatel@murray.com,310.269.0331,2025-05-24,Active,Net 15,991970,Arjun Kumar
+CUST00083,"Powers, Brennan and Sanchez",Enterprise,Logistics,West,Singapore,South Scottside,karenparsons@gordon.com,001-695-299-5342x8364,2026-05-01,Suspended,Net 30,55486,Sneha Patel
+CUST00084,"Hobbs, Buck and Garrett",Enterprise,Healthcare,West,India,Peterston,shelly68@horton-russell.com,(428)873-3427x0866,2023-08-30,Suspended,Net 15,811315,Sneha Patel
+CUST00085,Harris-Lucas,Government,IT,East,Australia,Booneland,brettbennett@morrison.org,001-583-873-5403x3173,2023-08-19,Active,Net 30,595977,Priya Nair
+CUST00086,"Morris, Campbell and Owens",Enterprise,Healthcare,East,Australia,Kylestad,zowens@harrison.com,560-793-2048x99642,2023-07-21,Suspended,Net 45,581089,Arjun Kumar
+CUST00087,Hudson-Sanchez,Enterprise,Finance,South,Singapore,Jonathanfort,umurray@jackson-cortez.info,(480)580-1006,2022-03-05,Active,Net 15,487477,Sneha Patel
+CUST00088,"Hernandez, Robinson and Bryant",Retail,Finance,North,USA,New Danafort,ismith@jenkins.net,608-762-1182x3398,2023-11-14,Suspended,Net 30,567313,Sneha Patel
+CUST00089,Miller-Chung,Enterprise,Manufacturing,South,UK,Cunninghambury,gabriella10@sullivan.net,500.921.7659x1803,2023-11-26,Active,Net 15,288067,Rahul Sharma
+CUST00090,Glass Ltd,Government,Logistics,North,Australia,Rachelshire,whitemelissa@ali.com,001-761-242-9396x85621,2022-06-05,Inactive,Net 60,69870,John Thomas
+CUST00091,Hall-Jones,Enterprise,Telecom,South,UK,Novakmouth,walterskristen@henry-kelly.biz,(829)761-9431x14262,2024-08-30,Inactive,Net 30,799074,John Thomas
+CUST00092,Davis LLC,Enterprise,Manufacturing,South,Singapore,Wardview,andersonjacob@hawkins-hunt.com,2156819956,2025-02-11,Inactive,Net 30,80355,Arjun Kumar
+CUST00093,Maxwell-Hardy,Retail,Manufacturing,East,India,New Adriana,rjackson@adams-thomas.com,(346)447-1543x79937,2024-03-09,Suspended,Net 15,613586,Sneha Patel
+CUST00094,Rush LLC,Retail,Education,North,Singapore,Brockmouth,pcook@taylor.com,752.365.4793x5646,2026-05-23,Active,Net 15,870023,Rahul Sharma
+CUST00095,Vargas PLC,SMB,Manufacturing,South,USA,Lake Katrina,bentonsteven@clark.com,(872)843-4266x17979,2026-03-22,Active,Net 60,465916,Sneha Patel
+CUST00096,Gibbs LLC,Government,Manufacturing,West,Australia,North Kaylastad,deborahwilliams@byrd.biz,501-943-8889,2024-10-11,Suspended,Net 60,333876,Arjun Kumar
+CUST00097,Ford-Frazier,Government,Healthcare,West,India,West Whitney,agarcia@wilson.com,(745)373-8757x177,2024-02-24,Inactive,Net 45,67640,Rahul Sharma
+CUST00098,Patrick Inc,SMB,Logistics,East,India,Port Matthewville,sarahyang@thompson.info,962.826.6093,2024-11-26,Active,Net 30,418501,John Thomas
+CUST00099,Bush and Sons,Retail,Logistics,North,UK,Karenland,lloydamanda@nguyen-ellis.com,+1-478-659-6969x15579,2022-04-26,Inactive,Net 60,61023,Arjun Kumar
+CUST00100,"Anderson, Wilson and Torres",Retail,Telecom,North,USA,West Heather,ibarnes@reyes.com,+1-227-742-2579,2021-09-04,Inactive,Net 60,396809,Arjun Kumar
+CUST00101,Taylor-Ochoa,SMB,Telecom,West,Australia,Ortizfort,cmckinney@jackson-cunningham.com,304-638-4279x7881,2026-03-20,Active,Net 60,594447,John Thomas
+CUST00102,Weaver-Sherman,SMB,Logistics,North,India,Paynechester,fitzgeralddesiree@evans.info,451-571-3395x962,2023-05-10,Active,Net 15,369187,Sneha Patel
+CUST00103,Hudson PLC,Retail,Manufacturing,North,UK,Candiceburgh,tiffany44@adams.com,(560)842-2325,2025-10-04,Active,Net 30,448929,John Thomas
+CUST00104,Ray LLC,Retail,Manufacturing,East,India,Brooksland,powellkara@mayer.com,001-801-575-1863,2025-10-21,Inactive,Net 30,528007,Priya Nair
+CUST00105,Morris-Campbell,Government,Manufacturing,North,India,New Melissa,patricia00@sims.com,427-670-6324,2022-05-22,Inactive,Net 15,674785,Rahul Sharma
+CUST00106,"Ward, Miller and Beck",Government,Manufacturing,South,India,North Randy,jessica36@davis.com,(893)487-0051,2025-08-29,Inactive,Net 45,384618,Rahul Sharma
+CUST00107,Perez Inc,Enterprise,IT,South,India,North Lawrenceport,patrickli@may.com,489-809-2753,2025-05-11,Suspended,Net 45,967888,Sneha Patel
+CUST00108,Miller Inc,Retail,Logistics,South,Singapore,Port David,bbell@moody-wright.com,589.899.4043,2024-02-10,Active,Net 15,934574,Sneha Patel
+CUST00109,"Brown, Hurst and Blevins",SMB,Healthcare,North,Australia,Cruzbury,elittle@oneal.com,(269)365-8271,2021-09-17,Active,Net 15,54809,Priya Nair
+CUST00110,Lewis-Livingston,Government,IT,North,India,Hunterhaven,zhenderson@davidson.org,(741)841-8328,2026-08-01,Inactive,Net 15,881538,Sneha Patel
+CUST00111,"Hines, Santos and Day",Enterprise,Telecom,South,India,Hollybury,sanchezsandy@chavez.com,721-402-0275x8842,2023-11-19,Active,Net 60,944751,Priya Nair
+CUST00112,"Tanner, Wise and Johnson",Retail,Logistics,West,USA,Nelsonland,jennifer91@gibson-ward.info,001-225-224-1913,2021-09-13,Inactive,Net 30,636165,John Thomas
+CUST00113,Williams LLC,Government,Finance,West,India,Moraburgh,tranrobin@rios.com,319-951-8023x806,2023-12-31,Inactive,Net 60,681172,John Thomas
+CUST00114,Murphy-Tran,Enterprise,IT,West,Australia,West Jamesshire,jodi37@vargas-snyder.com,001-883-620-6038x5050,2022-06-24,Active,Net 30,535450,John Thomas
+CUST00115,Moreno and Sons,Government,Education,West,Singapore,Vasquezton,jenniferdavis@merritt.biz,001-257-819-1826x199,2022-09-16,Inactive,Net 30,813185,Priya Nair
+CUST00116,Carter LLC,SMB,Education,East,UK,Haynesmouth,shawn31@taylor.com,(712)577-5618,2025-06-10,Suspended,Net 45,387889,Arjun Kumar
+CUST00117,Ford-Phelps,Enterprise,Education,North,Singapore,East Lindseyport,lewismelissa@davis.com,(980)344-2067x8831,2022-10-14,Inactive,Net 45,757689,John Thomas
+CUST00118,Smith and Sons,Enterprise,Manufacturing,North,Singapore,East Madison,gina19@green.com,472.815.1070,2024-12-15,Inactive,Net 60,266464,Priya Nair
+CUST00119,Johnson-Vega,Enterprise,Telecom,West,Australia,West Jason,joshuagriffin@johnson.org,847.468.7014,2025-02-28,Inactive,Net 30,850820,Priya Nair
+CUST00120,Day PLC,Enterprise,Education,East,UK,Lake Virginia,mayokimberly@castillo-harrington.com,001-585-264-2059,2023-12-26,Suspended,Net 45,711614,Rahul Sharma
+CUST00121,Stokes Group,Government,Logistics,West,UK,Katiebury,craigsandoval@ferguson-moody.com,001-439-565-2239x55905,2025-10-13,Inactive,Net 60,74071,Arjun Kumar
+CUST00122,"Parker, Henry and Davis",Retail,Telecom,West,India,New Jeffery,nsmith@drake.com,700-629-2185x15691,2024-05-04,Suspended,Net 60,413714,John Thomas
+CUST00123,Daugherty Ltd,Enterprise,Finance,North,USA,Connerfort,grant89@walker-chapman.com,(544)322-0969x0295,2025-10-25,Suspended,Net 45,107108,Sneha Patel
+CUST00124,Rivera Inc,SMB,Telecom,South,Australia,West Toni,daisymccarty@santiago.com,433-815-4100x676,2025-10-15,Inactive,Net 15,614037,Rahul Sharma
+CUST00125,Bell-Bennett,Enterprise,IT,West,USA,Kramershire,franciscojones@phillips.com,715-926-2181,2021-11-10,Inactive,Net 30,420608,Priya Nair
+CUST00126,Dunlap-Martin,Enterprise,Healthcare,North,USA,Mooreville,jamie36@spencer.com,331-606-9872x0506,2025-09-06,Active,Net 45,972744,John Thomas
+CUST00127,Davis and Sons,Government,Manufacturing,North,USA,Lake Kelly,wellsdarrell@ruiz-jacobson.com,286-625-6527,2025-05-03,Active,Net 60,964032,John Thomas
+CUST00128,Baker-Hood,Enterprise,Telecom,East,USA,East Karenville,barnettlindsey@arellano-lawrence.net,6683687937,2024-12-14,Suspended,Net 30,618535,Priya Nair
+CUST00129,"Johnson, Duncan and Black",Enterprise,Finance,South,UK,North Stacy,kthompson@stokes.com,(716)632-9451x16868,2026-01-06,Suspended,Net 45,710482,John Thomas
+CUST00130,Stark-Smith,Government,Telecom,North,USA,Rodriguezberg,ashleyaguilar@buckley.com,885-464-6799x7024,2025-01-05,Inactive,Net 30,679474,John Thomas
+CUST00131,Foster LLC,Government,IT,East,Australia,North Julie,penny05@collins-cameron.com,524.975.4691,2023-05-24,Inactive,Net 45,297736,Rahul Sharma
+CUST00132,Figueroa-Malone,Government,Education,South,Singapore,Lorihaven,cameronmckinney@taylor-york.org,7235303070,2023-12-05,Active,Net 15,708956,Arjun Kumar
+CUST00133,Colon-Wagner,Enterprise,Telecom,South,UK,Lake Anthonystad,lwheeler@matthews-bailey.com,614-806-0293x333,2025-12-17,Active,Net 15,436193,Arjun Kumar
+CUST00134,Hancock Ltd,Government,Education,South,India,South Rhondaburgh,walkercharlene@marquez-fletcher.com,(765)674-3748x96910,2024-02-19,Suspended,Net 30,412920,Sneha Patel
+CUST00135,"Rodriguez, Brown and Mcneil",SMB,Telecom,South,USA,Michelleview,jacob83@trujillo.biz,+1-752-507-4466x60993,2026-02-22,Suspended,Net 60,912522,Sneha Patel
+CUST00136,"Glover, Knox and Powers",SMB,Manufacturing,North,India,Meganside,kellyruiz@green.com,+1-351-935-3465x54947,2022-01-19,Active,Net 30,166421,Arjun Kumar
+CUST00137,"Silva, Blackburn and Jones",SMB,Healthcare,South,India,New David,amoreno@pitts.com,956.797.2521,2023-02-06,Suspended,Net 45,468034,Sneha Patel
+CUST00138,Walters-Smith,Retail,Logistics,South,USA,Jasonburgh,tracygallagher@anderson.biz,(267)260-0835x0583,2023-09-18,Suspended,Net 60,793246,Rahul Sharma
+CUST00139,Steele LLC,SMB,Education,East,India,Davidfurt,gary04@bryant-meyer.net,262-457-5326x03323,2022-08-23,Inactive,Net 45,585242,Priya Nair
+CUST00140,Dawson-Conner,Government,Manufacturing,West,Australia,Mcdowellview,wheelerbrandon@valdez.com,001-616-876-1847x230,2022-06-15,Inactive,Net 30,878533,Arjun Kumar
+CUST00141,"Meyer, Dean and Haynes",Government,Telecom,North,Singapore,Rivasville,campbellkristen@gonzalez-gonzalez.com,235.364.2087x37530,2022-07-15,Active,Net 60,439678,Rahul Sharma
+CUST00142,"Caldwell, Hernandez and Davis",SMB,Education,West,Australia,Lake Jenniferview,stephenmadden@marshall-garcia.com,4454561100,2024-05-23,Inactive,Net 45,606542,Arjun Kumar
+CUST00143,Kline-Friedman,Enterprise,Healthcare,East,India,Natalieland,lisa21@ross-bryant.biz,001-976-421-2021x697,2024-10-28,Inactive,Net 30,764743,Priya Nair
+CUST00144,Carr-Huffman,Enterprise,Logistics,South,Singapore,South Samantha,clayscott@green.com,001-989-793-5889x163,2024-11-13,Inactive,Net 15,55287,Priya Nair
+CUST00145,Combs PLC,Retail,IT,East,Australia,North Dawnburgh,kchristian@walton.com,340-983-8663x17797,2025-05-25,Active,Net 15,822042,John Thomas
+CUST00146,Wilson-Jimenez,SMB,Logistics,North,Australia,North Richardton,petersenlatoya@walsh.info,550-237-5899x75711,2024-07-01,Inactive,Net 60,836667,Priya Nair
+CUST00147,Gallegos-Brandt,SMB,Manufacturing,West,UK,Amystad,williamsfrank@underwood.biz,549-733-1637,2022-07-06,Active,Net 30,396699,John Thomas
+CUST00148,Williams-Schultz,Government,IT,West,Singapore,Port Patriciamouth,tamarasmith@williams.info,529.622.1699x58669,2024-12-24,Active,Net 60,307802,Rahul Sharma
+CUST00149,Waller-Chavez,Enterprise,Education,West,UK,East Robert,megan85@doyle.com,+1-845-622-8851x587,2025-03-10,Active,Net 15,572244,John Thomas
+CUST00150,Mills Inc,Government,Education,South,Singapore,Thomaston,josephfloyd@vega-thomas.com,001-843-580-5719x838,2025-12-10,Active,Net 15,788345,Rahul Sharma
+CUST00151,"Roberts, Beck and House",SMB,Logistics,West,UK,Butlermouth,smithjohn@melton.com,+1-359-889-3347x2122,2021-12-10,Active,Net 30,268134,Rahul Sharma
+CUST00152,Ramirez-Baker,Enterprise,IT,North,USA,New Meghan,riverajenna@williams.org,5944798515,2026-01-09,Inactive,Net 15,142263,John Thomas
+CUST00153,Hartman and Sons,Government,Healthcare,South,UK,Danielsfurt,baileynicole@rivera.org,378.801.5739x93056,2023-10-12,Suspended,Net 45,860951,Priya Nair
+CUST00154,"Ramsey, Johnson and Black",Retail,Telecom,East,Australia,Williehaven,stucker@lee.com,001-288-901-3361x38612,2024-06-01,Active,Net 60,75053,John Thomas
+CUST00155,Miller Inc,Retail,Manufacturing,South,India,Port Johnathan,andrewsjeremy@russell-hayes.biz,(350)661-8091x90158,2024-02-28,Active,Net 15,900916,John Thomas
+CUST00156,"Miller, Hubbard and Kim",Government,IT,South,Singapore,Shorttown,omoore@francis.com,+1-824-350-8821x0099,2024-03-09,Inactive,Net 30,82265,Sneha Patel
+CUST00157,Goodman Ltd,Government,Finance,North,Australia,Jasonhaven,eugenewalker@lee-white.org,5879814141,2024-05-29,Suspended,Net 45,121907,Sneha Patel
+CUST00158,Anderson-Rios,Retail,Telecom,West,Australia,West Christineborough,todd59@torres.com,962-705-3364x52577,2024-03-12,Active,Net 15,64382,Arjun Kumar
+CUST00159,Arnold-Thompson,Retail,Manufacturing,South,UK,Port Juanberg,josemercado@luna.net,+1-409-796-9308x4887,2024-12-07,Suspended,Net 45,482882,Arjun Kumar
+CUST00160,Vance PLC,Retail,Finance,East,UK,Dennishaven,sanderswayne@allen.com,001-582-372-2992x75037,2023-11-05,Active,Net 60,914266,Priya Nair
+CUST00161,Young-Barnett,Retail,Education,South,USA,Paulmouth,williamsdeborah@padilla.com,001-849-589-2665x9184,2025-12-27,Inactive,Net 45,183515,Priya Nair
+CUST00162,Gomez-Parrish,Enterprise,Education,South,India,Sparkstown,scotthall@schneider.com,+1-813-265-1777x392,2023-09-02,Active,Net 45,141751,Arjun Kumar
+CUST00163,Anderson PLC,Government,Telecom,West,Singapore,East Crystal,macdonalddylan@scott.net,(899)404-1379x7723,2026-07-21,Active,Net 60,365172,Priya Nair
+CUST00164,Hanson PLC,Enterprise,Telecom,East,USA,Garymouth,ecarlson@gray.com,9382862912,2026-02-12,Active,Net 30,791426,Sneha Patel
+CUST00165,"Goodwin, Davis and Hopkins",SMB,IT,South,UK,Port Erikachester,cwood@moreno.biz,(899)616-2473x149,2023-03-16,Suspended,Net 15,913021,Sneha Patel
+CUST00166,Fletcher Inc,Enterprise,Finance,South,Singapore,New Adrianborough,robert12@pearson-king.net,(995)694-6368x87258,2024-03-15,Inactive,Net 45,855688,Rahul Sharma
+CUST00167,"Cooper, Thornton and Fitzgerald",Government,Education,East,UK,Lake Jerryburgh,lewisrichard@owen-mendez.com,(360)612-7961,2023-06-26,Suspended,Net 15,717054,Rahul Sharma
+CUST00168,Miller-Johnson,Enterprise,IT,South,Singapore,Ariasfurt,jennifer90@bowman.com,484.230.9883,2024-08-27,Active,Net 15,934377,Rahul Sharma
+CUST00169,Pena and Sons,Government,Logistics,West,India,West Kimberlystad,msullivan@smith.net,689-455-4393x7690,2025-01-21,Inactive,Net 45,516725,Priya Nair
+CUST00170,"Rodriguez, Jones and Phillips",Government,Finance,East,USA,Port Williamview,heather69@carrillo-todd.info,+1-279-607-1416x33565,2023-09-16,Suspended,Net 15,712143,John Thomas
+CUST00171,Davis-Nunez,Government,Telecom,East,UK,Charlesburgh,nedwards@adams.com,333.334.3333x9521,2025-10-14,Inactive,Net 60,379670,Arjun Kumar
+CUST00172,"Smith, Vincent and Rubio",SMB,Manufacturing,West,India,Watsonmouth,kvillanueva@henry-joyce.net,763-892-0867x808,2023-01-31,Active,Net 15,144270,John Thomas
+CUST00173,Bray-Wolfe,SMB,Finance,West,USA,Stewarttown,craignicolas@nguyen.com,(484)934-7955,2025-03-15,Active,Net 15,296726,Rahul Sharma
+CUST00174,Barnes LLC,Retail,IT,North,Singapore,Melissaview,iwhite@parks.com,+1-866-932-2702,2022-09-27,Inactive,Net 30,671019,Sneha Patel
+CUST00175,"Holmes, Le and Floyd",Retail,IT,East,India,Johnshire,rosshannah@lewis.info,+1-317-754-5588x4506,2023-04-16,Active,Net 30,928806,John Thomas
+CUST00176,"Johnston, Banks and Thompson",Government,Healthcare,South,Australia,Michaelhaven,champton@james.info,+1-722-756-9961x1253,2024-01-28,Active,Net 15,223532,John Thomas
+CUST00177,"Adams, Newman and Nelson",SMB,IT,South,UK,Normanstad,lgutierrez@martinez.com,001-313-326-1117x8006,2023-10-30,Suspended,Net 30,996369,Arjun Kumar
+CUST00178,"Moore, Pena and Mcclure",Enterprise,Finance,South,UK,Jeromeport,isims@roberson.com,878.648.7282x9979,2024-07-19,Suspended,Net 60,236240,Sneha Patel
+CUST00179,Fernandez-Ballard,Government,Logistics,East,USA,Parkerchester,eric00@ochoa.info,+1-507-274-0649,2026-04-05,Inactive,Net 45,912061,Priya Nair
+CUST00180,Lopez-Khan,Retail,IT,East,Singapore,Fosterburgh,oclayton@miller-garrett.net,001-994-648-4631x22417,2025-10-12,Inactive,Net 45,159575,Rahul Sharma
+CUST00181,Flores and Sons,Enterprise,Logistics,East,UK,New Andrewville,joseph70@davis.info,356.447.5705,2022-01-27,Suspended,Net 15,386199,Rahul Sharma
+CUST00182,Rowe-Jones,Government,Manufacturing,East,UK,Whiteview,hclayton@wright.com,471.283.7645,2026-04-09,Active,Net 60,675646,Priya Nair
+CUST00183,"Martinez, Olson and Evans",Government,Education,West,UK,Paigeborough,youngryan@jackson.org,763-300-9792,2023-09-17,Active,Net 30,695588,Priya Nair
+CUST00184,Porter Ltd,Government,Finance,East,India,Sarahton,kellyeric@moody.net,+1-657-930-6524x0778,2023-03-18,Suspended,Net 15,758754,Sneha Patel
+CUST00185,"Lopez, Bailey and Oconnor",Government,Telecom,North,Singapore,Mikaylaside,caseymoore@weiss-weaver.info,7863209593,2026-03-07,Inactive,Net 30,310910,Sneha Patel
+CUST00186,Lee-Vega,Retail,Healthcare,South,USA,New Justin,hdavidson@mills.com,(820)931-7310,2026-01-25,Suspended,Net 45,257990,Arjun Kumar
+CUST00187,"Miles, Scott and Diaz",Retail,Manufacturing,North,India,North Sarahborough,fhebert@owen-brown.net,001-365-309-4801x4138,2023-07-24,Inactive,Net 15,188155,John Thomas
+CUST00188,"Cruz, Lee and Sandoval",Retail,Finance,South,Singapore,New Kara,xreese@ray.biz,922-786-8528,2024-04-11,Active,Net 30,491501,John Thomas
+CUST00189,"Frey, Nguyen and Watson",SMB,Logistics,West,India,Mckenziemouth,annalewis@howe.info,(700)249-0824x0433,2023-12-11,Inactive,Net 45,77856,Rahul Sharma
+CUST00190,"Dixon, Duncan and Duncan",Retail,Finance,North,India,North Stevenberg,josephpreston@hall.com,001-369-631-5727,2021-11-30,Suspended,Net 15,891461,John Thomas
+CUST00191,"Stokes, James and Deleon",SMB,Telecom,South,USA,Michaelchester,hconrad@adkins.com,+1-460-248-0589x2583,2024-12-08,Active,Net 15,306609,Sneha Patel
+CUST00192,Mullins-Johnston,Government,Education,South,Australia,East Ryanfurt,davidmiller@mcgee.biz,562.527.8376x93898,2022-03-16,Inactive,Net 60,238456,Priya Nair
+CUST00193,Frank-Morris,Enterprise,Manufacturing,North,USA,North Emilychester,michael55@rios.com,+1-279-527-0335x211,2022-11-07,Suspended,Net 15,90809,Sneha Patel
+CUST00194,Smith-Benson,Government,IT,East,UK,West Shannontown,jason83@payne.net,692.206.9804x2043,2025-07-20,Inactive,Net 60,227900,Rahul Sharma
+CUST00195,"Landry, Jones and Guerrero",Enterprise,Logistics,South,Australia,Michelletown,michelle63@romero-mckinney.com,698.712.3878x0038,2025-10-06,Active,Net 30,413476,Arjun Kumar
+CUST00196,Garner-Smith,SMB,Finance,South,USA,Michaelport,wendyirwin@cain-garrett.biz,8845325621,2025-02-22,Inactive,Net 45,242192,John Thomas
+CUST00197,Berry Group,Enterprise,Telecom,East,USA,Reneemouth,ndaniels@taylor.com,782-462-9251x8812,2021-11-05,Active,Net 15,758362,John Thomas
+CUST00198,Beard-Gutierrez,Retail,Telecom,North,UK,Turnerview,kimberlyrodriguez@johnson.org,499-993-9330x517,2024-10-10,Suspended,Net 60,428165,Priya Nair
+CUST00199,Christian Group,Government,Logistics,West,Australia,Taylorborough,antonioduran@schaefer.com,001-233-812-7975x7366,2024-04-04,Active,Net 30,811379,Arjun Kumar
+CUST00200,Carr-Newton,Government,Healthcare,West,UK,New Danielmouth,richjohn@foster.net,001-403-947-6447x26490,2025-06-09,Active,Net 30,729418,Sneha Patel
+CUST00201,Sharp Inc,Government,Finance,North,USA,Port Brenda,phillipmorris@white.com,814.452.1117x518,2024-10-25,Inactive,Net 15,674712,Rahul Sharma
+CUST00202,"James, Tate and Barr",Retail,IT,North,India,East Misty,kaylawilliams@collins-mack.info,221-923-0940x7778,2023-08-15,Active,Net 45,657847,Priya Nair
+CUST00203,Chapman Group,Enterprise,Logistics,East,UK,Ortizland,sanchezamy@fuller.com,(705)302-0994,2022-01-05,Inactive,Net 15,660411,Arjun Kumar
+CUST00204,Butler and Sons,Government,Education,South,USA,Lake Justin,tammycurry@huynh-davis.com,856-516-8147x21458,2023-05-17,Suspended,Net 15,175995,John Thomas
+CUST00205,"Brown, Duncan and Krause",Government,IT,North,India,South Jenniferport,ulynch@fox-carney.com,(599)678-7729,2023-03-30,Inactive,Net 15,930438,Rahul Sharma
+CUST00206,Wilson Group,Government,Telecom,South,UK,Lake Melaniechester,wwilliams@shaffer.com,214-448-8501x556,2023-03-31,Suspended,Net 15,61344,Sneha Patel
+CUST00207,Bass-Nielsen,SMB,Education,West,India,Hendrickston,timothyburton@huang.com,249.758.8039x55124,2024-10-14,Inactive,Net 15,825435,John Thomas
+CUST00208,"Ferguson, Martin and Obrien",SMB,IT,North,USA,New Darryl,janet50@gutierrez-crawford.com,(974)238-4215x031,2025-09-13,Suspended,Net 60,87641,Rahul Sharma
+CUST00209,"Moore, Peterson and Webb",Government,Finance,North,USA,Kimberlyberg,shortsharon@haney.biz,001-681-204-0915x701,2026-07-05,Suspended,Net 30,742558,Sneha Patel
+CUST00210,Fowler-Clark,Government,IT,East,USA,East Justin,kendra14@moore.com,+1-588-413-8585x424,2022-03-15,Suspended,Net 45,805164,Priya Nair
+CUST00211,Austin-Morgan,Government,Education,West,UK,Williamstown,dberger@reyes.biz,(429)397-9545x3817,2025-07-30,Inactive,Net 45,299321,Rahul Sharma
+CUST00212,Bryant Ltd,SMB,Logistics,West,UK,Ruizbury,michellejensen@myers-lyons.com,477-301-7157x72459,2025-01-17,Active,Net 30,184055,Priya Nair
+CUST00213,"Robles, Nguyen and Banks",Government,Logistics,West,India,Amandafurt,pallen@moore.com,001-396-969-5832x197,2024-05-12,Active,Net 30,689896,Sneha Patel
+CUST00214,"Davis, Wallace and Parker",SMB,IT,West,Australia,Jonesville,pmurphy@brown.org,001-602-627-8469x97335,2025-04-17,Inactive,Net 60,261837,Priya Nair
+CUST00215,"Haas, Cooper and Davis",Government,Healthcare,South,USA,New Valeriefurt,melissabrown@faulkner.com,840-836-9656,2025-04-19,Inactive,Net 45,865862,Sneha Patel
+CUST00216,"Clark, Thompson and Taylor",Enterprise,Finance,West,UK,Bridgesstad,qmoore@taylor.com,(876)421-2679,2025-06-17,Suspended,Net 45,943741,Arjun Kumar
+CUST00217,"Coleman, Wilkins and Cruz",Enterprise,Education,North,Australia,East Roger,lanemelanie@joseph.biz,+1-995-300-9751,2022-10-21,Inactive,Net 15,243259,Rahul Sharma
+CUST00218,"Simon, Terrell and Terrell",Retail,Telecom,East,India,Stevenland,sanchezcrystal@horne.org,790-658-0778x7956,2024-01-21,Inactive,Net 30,231144,Arjun Kumar
+CUST00219,Johnson PLC,Enterprise,IT,South,India,Jessicashire,bryan79@berry.com,001-690-647-1281x4429,2023-10-13,Suspended,Net 15,608221,Priya Nair
+CUST00220,Figueroa PLC,Retail,Finance,South,Australia,New Joanne,lwood@patton-young.com,705.212.9276x63723,2023-11-05,Active,Net 60,271888,Sneha Patel
+CUST00221,Williams Group,SMB,Logistics,North,India,Alvarezfort,noahthornton@baker-moreno.biz,7478658018,2023-11-30,Active,Net 60,780051,Arjun Kumar
+CUST00222,Nelson-Lang,Government,Finance,North,Australia,Destinyfurt,vmejia@navarro.com,752.558.0010x61817,2024-01-03,Active,Net 45,803019,John Thomas
+CUST00223,Lee-Johnson,SMB,Manufacturing,South,India,North Sheenaborough,ericksondavid@anderson.org,(812)744-7174,2023-10-14,Suspended,Net 60,243283,John Thomas
+CUST00224,Norman LLC,Retail,Telecom,North,Australia,South Paulton,stephanie42@jones-krause.com,+1-662-371-2863x917,2021-11-22,Suspended,Net 15,913561,John Thomas
+CUST00225,Jones Ltd,SMB,IT,South,India,Kimberlytown,ohernandez@fitzpatrick.biz,525-269-0877x661,2024-11-12,Active,Net 30,236626,Sneha Patel
+CUST00226,"Meyers, Olson and Bradley",Enterprise,Education,East,India,Mathewport,pbrown@diaz.com,943.328.0634x615,2025-04-27,Active,Net 45,505699,Priya Nair
+CUST00227,"Lopez, Johnson and Johnson",Enterprise,Manufacturing,East,USA,South Paul,victor70@morgan.com,(213)987-8293x1027,2021-12-26,Suspended,Net 30,992929,Rahul Sharma
+CUST00228,Haynes and Sons,Retail,Healthcare,West,UK,East Cynthiaport,bryantgeorge@brown.org,+1-731-536-5651x982,2021-12-25,Inactive,Net 15,843719,Sneha Patel
+CUST00229,"Thompson, Brown and Hill",Government,IT,North,Singapore,Jacksonstad,samuelfrost@anderson.org,(420)571-0021x9467,2022-10-24,Inactive,Net 15,815537,John Thomas
+CUST00230,"Nelson, Cole and Allen",Enterprise,Healthcare,East,Singapore,New Heather,jennifersalazar@burton.com,(508)633-1819x58837,2022-01-17,Active,Net 15,854034,Rahul Sharma
+CUST00231,Rodriguez and Sons,SMB,Telecom,South,India,Jimenezburgh,brownmichael@hamilton.org,001-970-710-8220x78113,2025-02-27,Suspended,Net 60,878952,Sneha Patel
+CUST00232,Burgess LLC,Government,Healthcare,South,Singapore,Port Daniel,coreyrojas@bennett.com,997.506.2397x2652,2024-08-24,Suspended,Net 30,727114,Sneha Patel
+CUST00233,Harris-Martinez,Retail,Finance,South,Australia,West Derekmouth,wbarnes@robinson-phillips.com,+1-992-698-3168x7397,2021-09-20,Active,Net 60,922388,Sneha Patel
+CUST00234,"Patterson, Salas and Wright",Enterprise,Finance,West,Australia,Rileyshire,robinvillanueva@baird-williams.info,001-280-868-6717x7318,2023-06-14,Inactive,Net 15,134082,Priya Nair
+CUST00235,Howard and Sons,Government,Finance,West,UK,North Timothyport,jacquelinehodge@silva.com,001-862-657-0165x804,2026-03-18,Active,Net 15,149616,John Thomas
+CUST00236,"Norton, French and Miller",Retail,Telecom,North,UK,Jillton,pamela16@marshall-williams.com,(381)983-2538,2026-07-13,Suspended,Net 60,526840,Sneha Patel
+CUST00237,"Clark, Mcgee and Perez",Government,Manufacturing,North,Australia,Rachaelhaven,eramirez@reed-tucker.net,578-984-7951,2022-05-04,Inactive,Net 60,922638,John Thomas
+CUST00238,Myers and Sons,SMB,Telecom,East,Australia,Susanland,martindaniel@crawford.net,+1-304-268-2756x7043,2023-07-28,Suspended,Net 15,124553,Rahul Sharma
+CUST00239,"Newman, Jenkins and Cooper",Government,Logistics,East,USA,Toddhaven,kellis@villanueva.com,437-654-0254x729,2023-02-23,Inactive,Net 60,728250,Sneha Patel
+CUST00240,Franco Ltd,SMB,Logistics,East,USA,East John,chaneyautumn@green-lopez.net,001-205-852-5782x841,2025-11-04,Inactive,Net 30,239004,Sneha Patel
+CUST00241,Gould LLC,Retail,Logistics,South,Australia,North Tara,deborah47@montes-webster.org,+1-529-975-1702x81406,2024-08-20,Inactive,Net 45,178232,Rahul Sharma
+CUST00242,Nguyen PLC,Retail,Logistics,South,Singapore,New Alicia,james18@rhodes-rosario.net,(837)759-9805x6265,2021-09-12,Active,Net 45,182079,John Thomas
+CUST00243,Cooper-Parker,SMB,Logistics,South,India,Sawyerland,jessicawallace@lara-roberts.biz,001-862-399-1234x7851,2021-08-26,Inactive,Net 45,313579,Arjun Kumar
+CUST00244,Fowler-Nelson,Government,Education,North,Australia,New Steven,jamescollier@spencer-williams.com,001-647-687-3002,2025-08-13,Inactive,Net 60,777955,Arjun Kumar
+CUST00245,Valdez LLC,SMB,Telecom,East,India,Whitebury,wilsonjoshua@george.org,296.447.1589x0429,2024-04-25,Inactive,Net 15,647897,Rahul Sharma
+CUST00246,Johns-Taylor,SMB,Finance,West,UK,North Joseph,wfields@roberts.com,732.419.2855x44518,2021-09-15,Inactive,Net 30,729181,Sneha Patel
+CUST00247,Holmes LLC,Retail,Telecom,East,UK,Jenkinsburgh,robinsonwesley@pope.org,001-788-681-6711x207,2024-09-05,Active,Net 60,792406,Sneha Patel
+CUST00248,Montoya PLC,Government,IT,South,UK,Geraldport,garnerdavid@vincent.com,323-221-6110x7603,2025-12-18,Suspended,Net 30,277286,Priya Nair
+CUST00249,"Brown, Wilson and King",SMB,Education,South,Australia,West Elizabethville,morajamie@lopez.com,524-395-5289,2022-06-09,Active,Net 45,974044,Rahul Sharma
+CUST00250,"Hines, Rice and Baldwin",Government,Logistics,East,Australia,Georgeside,beltrancorey@knapp.info,(892)371-2566x383,2024-04-08,Active,Net 45,335555,Priya Nair
+CUST00251,Owens PLC,Government,Education,West,UK,South Kathryn,angela01@snyder-cruz.info,+1-447-238-6463x175,2025-10-11,Suspended,Net 45,822944,Arjun Kumar
+CUST00252,"Garcia, Kim and Barrett",Retail,Telecom,North,Australia,North Douglasfurt,figueroapatricia@brown.com,696.813.6749,2024-08-16,Suspended,Net 60,833204,John Thomas
+CUST00253,Estrada-Clements,Retail,Education,East,India,Dixonberg,qrodriguez@crawford-fuller.com,7104170269,2024-03-03,Active,Net 45,842058,Rahul Sharma
+CUST00254,"Hanson, Wolf and Guerrero",SMB,Telecom,South,USA,Sparksborough,ebony78@daniels-pacheco.net,+1-900-961-6756,2021-11-25,Active,Net 45,600719,Rahul Sharma
+CUST00255,Thompson Ltd,Enterprise,Telecom,South,Singapore,Nicoleburgh,tjordan@price.info,+1-888-797-7828x06479,2024-01-06,Suspended,Net 60,333707,Rahul Sharma
+CUST00256,Brown-Garza,Enterprise,Manufacturing,North,UK,Port Michael,hubbardcolleen@davis-reed.com,(250)733-3491x14152,2021-11-30,Inactive,Net 30,211779,John Thomas
+CUST00257,Barrett-Henderson,Enterprise,Telecom,North,Singapore,Adamsfort,odomnicholas@morris-davis.info,735-878-5294,2023-04-24,Inactive,Net 45,720611,Rahul Sharma
+CUST00258,Reid-Dickson,SMB,Education,East,India,Port Melissaborough,joseph49@ballard-weber.com,001-791-395-4198x763,2024-02-29,Inactive,Net 60,608819,Rahul Sharma
+CUST00259,"Brock, Reynolds and Fernandez",SMB,IT,West,Australia,South Richard,jpowers@ibarra.net,(297)537-4896,2024-09-10,Active,Net 30,891047,John Thomas
+CUST00260,Hernandez-Hernandez,Retail,Manufacturing,North,Australia,Meganchester,michelle13@adams-mitchell.com,993-863-1230x347,2025-03-09,Inactive,Net 30,735375,Priya Nair
+CUST00261,"Bullock, Harris and Nelson",SMB,Logistics,East,UK,West Kristineview,dawnwilliams@tucker.com,694-916-5162x31981,2022-05-13,Active,Net 15,114288,Arjun Kumar
+CUST00262,Greene LLC,SMB,IT,West,UK,Marisafurt,selenarobinson@thompson.info,(449)707-8515x86734,2025-08-21,Inactive,Net 45,882599,Rahul Sharma
+CUST00263,"Richardson, Parker and Brewer",Enterprise,Telecom,North,Singapore,Port Joditon,johnnycruz@mullen.com,+1-537-660-6441,2023-05-21,Active,Net 30,780023,Priya Nair
+CUST00264,Moon Ltd,Retail,IT,South,India,Natashachester,hillchristopher@ruiz-gutierrez.com,001-961-224-8156x985,2022-01-14,Active,Net 15,226076,Rahul Sharma
+CUST00265,"May, Mccoy and Gibbs",Enterprise,Telecom,South,USA,North Richard,lee11@wright.com,+1-365-877-2429x543,2024-09-21,Inactive,Net 45,803753,Priya Nair
+CUST00266,Long Group,SMB,Logistics,South,USA,North Stacy,rebeccamccann@green.com,(896)994-2152x9108,2025-10-19,Suspended,Net 60,374912,John Thomas
+CUST00267,Walker and Sons,Enterprise,Healthcare,East,India,Port Lisa,keith76@reynolds.org,643.562.6204,2025-06-07,Inactive,Net 15,966838,Rahul Sharma
+CUST00268,Wood Ltd,SMB,Telecom,West,USA,Millerfort,monicamccann@mcdaniel-reeves.biz,001-294-211-8005x3759,2023-10-03,Inactive,Net 60,456845,John Thomas
+CUST00269,"Harvey, Turner and Foster",Government,Logistics,East,Singapore,Davidside,carpenterjorge@vasquez.com,686-624-1502x74564,2025-12-29,Inactive,Net 30,656229,Priya Nair
+CUST00270,Graham-Martin,Government,Healthcare,East,India,Gallagherberg,jbrown@hall.info,927-361-7075x877,2022-11-08,Inactive,Net 30,423706,Priya Nair
+CUST00271,Bailey and Sons,SMB,Telecom,East,Singapore,Henryburgh,anna93@bolton.com,(413)271-5041x65915,2022-04-14,Active,Net 15,915580,John Thomas
+CUST00272,Rivas-Keller,SMB,Healthcare,East,Singapore,Fullerview,riverabradley@tapia.org,(830)345-0189,2024-12-27,Active,Net 60,78380,Sneha Patel
+CUST00273,Thompson-Hanna,Government,Healthcare,West,USA,Davisborough,paulpowell@goodwin.info,(849)325-1583x77674,2025-03-10,Inactive,Net 30,852514,Sneha Patel
+CUST00274,Austin-Hamilton,Retail,IT,East,UK,Davishaven,teresa32@rose-holland.com,276-317-4224x3864,2021-12-24,Inactive,Net 45,275314,Sneha Patel
+CUST00275,"Rodriguez, Coleman and Davis",Enterprise,Education,East,India,Michaelshire,mackallen@stanley.biz,6167459779,2023-03-10,Suspended,Net 60,569984,Sneha Patel
+CUST00276,Lopez Ltd,Government,Finance,North,Singapore,Monicaville,aferguson@wilson-jackson.info,469.274.9956x412,2023-03-21,Active,Net 60,862395,Arjun Kumar
+CUST00277,Cabrera Ltd,Retail,Finance,North,UK,Port Anthony,pwong@graham.net,414.472.7601,2025-05-20,Active,Net 60,469065,Sneha Patel
+CUST00278,Ruiz-Heath,SMB,Telecom,South,USA,East Kenneth,awilliams@mccoy.biz,(579)298-4076x78997,2026-02-02,Inactive,Net 45,979705,John Thomas
+CUST00279,Henderson LLC,Government,Finance,South,Australia,West Patriciachester,nwilson@reed.com,001-637-857-3839x5972,2025-02-21,Suspended,Net 15,962935,Sneha Patel
+CUST00280,"Delgado, Ward and Kennedy",Government,IT,East,USA,New Jared,estradadavid@moore.com,(274)333-8005x45228,2024-06-20,Inactive,Net 45,979065,Arjun Kumar
+CUST00281,Wilson-Perez,SMB,Education,South,Australia,South Jonathan,kristen08@kemp-castaneda.net,+1-310-477-1199x180,2022-08-07,Active,Net 30,438076,Rahul Sharma
+CUST00282,Bartlett and Sons,SMB,Education,West,Australia,Jeanhaven,goconnor@holland.com,437-360-3754,2023-11-10,Suspended,Net 30,775495,Rahul Sharma
+CUST00283,Espinoza-Perry,Retail,Finance,East,India,East Karen,icobb@gutierrez-ortiz.info,250.872.0811x55626,2021-11-29,Suspended,Net 15,797512,Arjun Kumar
+CUST00284,"Nielsen, Hernandez and Andrews",SMB,Healthcare,North,Australia,Robertside,jennifer55@wilcox.org,(867)538-9975,2024-02-28,Suspended,Net 15,202999,Arjun Kumar
+CUST00285,Johnson LLC,Retail,Telecom,North,UK,Hardyberg,jason88@boyd-sherman.com,3082943468,2024-10-07,Inactive,Net 45,607685,Priya Nair
+CUST00286,Sims-Gomez,Enterprise,Finance,West,India,Port Debraville,vevans@chavez.org,001-889-535-4492,2022-06-28,Active,Net 15,819299,John Thomas
+CUST00287,Black-Lee,Retail,IT,North,Singapore,Shawnberg,fpoole@brown.info,871.658.6988,2026-07-26,Active,Net 45,367348,Sneha Patel
+CUST00288,Fields-Barajas,Retail,Manufacturing,North,India,Dennischester,drewmartinez@ellis.net,837-370-2851,2022-08-16,Suspended,Net 45,199381,Arjun Kumar
+CUST00289,Armstrong-Williams,Government,Manufacturing,West,USA,North Nathan,kevin70@thomas.biz,7443327018,2021-12-22,Inactive,Net 30,771864,Sneha Patel
+CUST00290,Olson-Collins,Retail,Finance,North,India,Mcculloughfurt,mdavenport@gill.info,001-277-925-1996x63658,2023-12-15,Suspended,Net 45,267285,Sneha Patel
+CUST00291,"Davis, Martin and Johnson",Enterprise,Healthcare,North,India,Annville,leechristine@todd.info,701.882.0433x97189,2021-12-23,Active,Net 45,346141,Arjun Kumar
+CUST00292,Atkins-Johnson,SMB,Telecom,North,USA,Whitetown,patrick11@weaver.com,(741)424-6209,2021-10-29,Suspended,Net 45,246733,Priya Nair
+CUST00293,"Brown, Price and Flores",Enterprise,Finance,North,India,Orozcoview,hdavid@harris.org,978.886.1405,2022-02-25,Suspended,Net 45,368647,John Thomas
+CUST00294,Johnson-Schultz,SMB,Logistics,West,Singapore,West Angelashire,sanchezangela@torres.info,883-925-8238,2021-12-13,Suspended,Net 60,678349,Sneha Patel
+CUST00295,Hess PLC,Retail,Finance,South,Singapore,Deniseburgh,brownsandra@harper-franco.biz,(839)384-0289x141,2022-10-13,Suspended,Net 60,846657,Sneha Patel
+CUST00296,"Hawkins, Ramirez and Reynolds",Enterprise,Logistics,West,Australia,Nicolemouth,tiffany74@bates.com,279.250.2097,2023-01-27,Inactive,Net 15,960830,Priya Nair
+CUST00297,Peters-Horton,Enterprise,Logistics,East,USA,Farmerside,cobbdebra@ryan.info,+1-215-569-5620x17537,2021-10-06,Suspended,Net 30,831725,Priya Nair
+CUST00298,Becker-Fletcher,SMB,IT,South,India,North Lisa,lindsey33@coffey-johnson.info,001-593-403-6149x872,2022-02-25,Suspended,Net 60,480424,Arjun Kumar
+CUST00299,"Anderson, Brown and Green",Enterprise,IT,East,Australia,New Jessica,james08@king.biz,+1-505-266-4187x7580,2023-12-17,Active,Net 15,684457,Arjun Kumar
+CUST00300,Patel-Stewart,SMB,Finance,West,India,Leeland,mooneyjeremiah@coleman.com,541-710-7609x54317,2022-01-22,Active,Net 15,792488,Sneha Patel
+CUST00301,Stone-Young,Enterprise,Manufacturing,North,India,Port Carolmouth,garrettbeth@villegas.biz,612-807-0496x11080,2025-01-04,Suspended,Net 60,569777,Sneha Patel
+CUST00302,Williamson Group,SMB,Education,West,UK,Port Carol,chavezsteven@hobbs-harvey.com,+1-507-485-9311x0919,2025-12-04,Inactive,Net 30,385441,Sneha Patel
+CUST00303,Kelly-Olson,Enterprise,Logistics,East,Australia,Lopezberg,brownlarry@palmer-pearson.com,498-222-7495x4508,2023-08-13,Suspended,Net 15,444583,Rahul Sharma
+CUST00304,"Fuentes, Hansen and Brown",Enterprise,Logistics,North,Singapore,Jamesborough,kristenpeterson@alvarez.com,001-995-294-6521,2025-10-24,Inactive,Net 45,936926,Sneha Patel
+CUST00305,Mora Ltd,Government,Telecom,North,India,Lake Jerry,johnnavarro@aguirre-bennett.biz,(405)601-5081,2025-05-05,Active,Net 15,189999,Rahul Sharma
+CUST00306,Welch LLC,Government,Telecom,South,USA,North Jamesport,jefferygreen@morgan.com,(330)724-1026,2023-05-21,Suspended,Net 45,503449,Priya Nair
+CUST00307,Bryant-Wood,SMB,IT,East,Australia,Donnahaven,ejohns@thomas.com,586.655.9630,2022-11-10,Inactive,Net 60,216703,Priya Nair
+CUST00308,Wright-Soto,SMB,Telecom,North,Australia,Moniquehaven,fclark@gibbs-mendez.com,668.857.8725x58777,2026-07-25,Inactive,Net 15,344923,Sneha Patel
+CUST00309,"Johnson, Robinson and Harris",SMB,Manufacturing,East,Singapore,South Jeffery,koneal@walls.com,+1-212-914-7853,2025-12-14,Suspended,Net 45,470182,Priya Nair
+CUST00310,"Rogers, Hayes and Reynolds",Retail,Healthcare,East,Australia,Lindamouth,patrick27@baker.com,348-388-1431,2024-08-29,Active,Net 45,900538,Sneha Patel
+CUST00311,Payne LLC,Retail,Logistics,North,Singapore,Lake Mark,julie43@munoz.net,804-545-6690x782,2023-07-12,Suspended,Net 45,946782,Arjun Kumar
+CUST00312,"Curry, Wells and Black",Enterprise,Manufacturing,South,UK,Sharpmouth,latoya53@carrillo-wolfe.com,778.505.2924x075,2025-02-28,Inactive,Net 30,187084,Arjun Kumar
+CUST00313,Jennings-Powell,Retail,Manufacturing,West,UK,Marktown,weekseric@carroll-lloyd.org,001-966-336-1863,2024-05-23,Active,Net 45,194539,John Thomas
+CUST00314,"Hayden, Fowler and Torres",Retail,Finance,West,USA,North Emily,antoniobarker@johnson-gonzalez.biz,833-848-1705x8025,2022-12-06,Inactive,Net 15,748956,Arjun Kumar
+CUST00315,Anderson Group,SMB,IT,South,UK,Paulfurt,davidharris@meyers-ortega.com,+1-394-893-8743x027,2023-09-11,Suspended,Net 45,225211,Priya Nair
+CUST00316,"Murphy, Carroll and Henry",Government,Manufacturing,East,India,Johnstonland,debbie75@kirby.com,(632)696-7629x16032,2022-03-01,Inactive,Net 15,973945,Arjun Kumar
+CUST00317,"Barber, Barrera and Kerr",Retail,Telecom,South,India,Riddleside,carneycharles@gordon.biz,824.538.0701x765,2024-12-20,Active,Net 30,662492,Sneha Patel
+CUST00318,Smith Inc,SMB,Telecom,North,USA,West Ellen,ewashington@kelley.info,(674)322-0912,2026-02-22,Active,Net 45,656217,Priya Nair
+CUST00319,"Myers, Jones and Gallagher",Enterprise,Manufacturing,South,India,Ericstad,jayjohnson@patel.net,+1-516-547-0900x6335,2022-05-16,Inactive,Net 45,84084,Arjun Kumar
+CUST00320,Fisher Inc,SMB,Healthcare,West,Singapore,Loriland,susandavis@jackson.com,758-439-3866x13315,2021-09-21,Suspended,Net 30,925352,Priya Nair
+CUST00321,Valdez-Smith,Government,Telecom,South,India,South Jeffrey,debra50@mcclure.com,001-497-718-9241x95625,2025-09-11,Suspended,Net 30,701844,Rahul Sharma
+CUST00322,Rogers PLC,Government,Telecom,South,India,Reyesbury,hallchristina@parker.biz,001-539-910-2574x32630,2024-05-23,Suspended,Net 15,99104,Sneha Patel
+CUST00323,Ramirez Ltd,Government,Healthcare,West,UK,New Latoyachester,karen35@allen-ryan.com,+1-439-568-5270x17130,2022-08-31,Inactive,Net 15,208285,Sneha Patel
+CUST00324,Thompson PLC,Enterprise,IT,South,India,East William,thardy@griffith.biz,(993)344-9734,2024-08-27,Inactive,Net 60,948850,Sneha Patel
+CUST00325,Gray-Ruiz,SMB,Healthcare,South,Australia,Wagnerchester,lorileon@gill.com,001-949-382-8246x74746,2024-06-06,Suspended,Net 15,279104,John Thomas
+CUST00326,Espinoza and Sons,Government,Telecom,South,UK,East Adam,travis66@brooks.org,660-716-9236,2025-12-06,Inactive,Net 30,126329,Sneha Patel
+CUST00327,"Burns, Barker and Horton",SMB,Telecom,West,Australia,Housebury,timdorsey@mccoy-rhodes.com,897-824-3992x011,2026-08-01,Active,Net 60,981714,Rahul Sharma
+CUST00328,Stone and Sons,Retail,IT,East,India,Martinchester,heather88@tanner.com,495-924-3640,2021-08-10,Suspended,Net 60,166492,Rahul Sharma
+CUST00329,Jones Ltd,Retail,Finance,West,Australia,Warrenport,xjackson@padilla.info,(481)579-3230,2023-10-20,Suspended,Net 60,981988,Priya Nair
+CUST00330,Alexander-Durham,Government,Education,West,Australia,Port Danaland,christopher14@peterson.com,871.600.4090x1380,2025-09-23,Inactive,Net 45,648357,Priya Nair
+CUST00331,Sherman-Munoz,Government,Telecom,South,India,Nathanmouth,lisa56@bishop-hester.com,607-562-0918,2024-09-23,Suspended,Net 30,321830,Arjun Kumar
+CUST00332,Montgomery-Hopkins,Retail,Education,West,USA,Robertsonborough,andersensusan@smith-ward.com,001-857-639-7691x5671,2023-04-04,Active,Net 15,885036,Rahul Sharma
+CUST00333,"Thomas, Meyer and Armstrong",Government,Finance,South,India,East Tylerland,marisa87@mosley.info,+1-583-633-2116x02564,2025-08-24,Suspended,Net 60,118619,Rahul Sharma
+CUST00334,"Martinez, Taylor and Nichols",Retail,Telecom,West,Singapore,Davismouth,sarahmiranda@brown.biz,+1-586-333-4141x1159,2026-06-20,Suspended,Net 60,917869,Sneha Patel
+CUST00335,Anderson-Edwards,Government,Telecom,East,Australia,Raytown,bryan83@whitney-flores.com,+1-528-999-3160x87524,2025-06-22,Active,Net 15,787565,Sneha Patel
+CUST00336,Guzman and Sons,Retail,Education,South,USA,New Lukehaven,hillmelanie@mendoza.biz,6524330276,2021-10-12,Suspended,Net 60,169968,Sneha Patel
+CUST00337,"Long, Henderson and Kennedy",Retail,Telecom,South,Singapore,Katherinefurt,rosejustin@leblanc.com,(959)904-7292,2024-01-27,Inactive,Net 15,168413,Arjun Kumar
+CUST00338,Clark Ltd,Enterprise,Logistics,South,Australia,Lake Denise,jessica91@floyd.biz,+1-820-515-7201x85962,2021-11-19,Inactive,Net 15,609873,John Thomas
+CUST00339,Allen Group,Enterprise,IT,North,UK,Haileyburgh,yparsons@barrett.biz,975-601-1117x830,2022-05-26,Suspended,Net 60,748045,Priya Nair
+CUST00340,"White, Washington and Newman",Retail,Finance,East,UK,Evansberg,nguyenjennifer@lopez.net,+1-387-418-9813,2023-02-16,Inactive,Net 45,584670,Arjun Kumar
+CUST00341,Peters LLC,Enterprise,Telecom,South,Singapore,North Davidborough,christopherscott@miller.net,458-926-0340x8487,2024-04-04,Suspended,Net 15,717689,Priya Nair
+CUST00342,"Bartlett, Shea and Obrien",Enterprise,Healthcare,South,USA,Lake Corey,youngjacob@chase-lewis.com,+1-683-895-4296x184,2022-12-26,Inactive,Net 30,123861,John Thomas
+CUST00343,Bryant-Duffy,Retail,Logistics,West,India,Bentleyberg,chadoconnor@terry.net,+1-326-325-6609x314,2026-04-05,Suspended,Net 15,860658,Priya Nair
+CUST00344,Jones-Bowman,Government,Finance,East,USA,Reginaview,mistyperez@garcia.biz,712-684-9718,2026-04-15,Inactive,Net 60,236321,Priya Nair
+CUST00345,Lawson-Mosley,Enterprise,Finance,North,Australia,West Stacey,zwhite@byrd.biz,792.540.8222x6940,2025-02-25,Inactive,Net 15,693235,Rahul Sharma
+CUST00346,"Ellis, Gonzales and Gomez",SMB,Education,South,Australia,Shawview,tmeyer@torres.com,(251)811-3129x01487,2025-12-03,Suspended,Net 45,73429,Rahul Sharma
+CUST00347,"Taylor, Jimenez and Jennings",Enterprise,Manufacturing,South,Australia,South Alexanderborough,kleinjacqueline@reed.net,+1-290-897-2832x15285,2025-10-23,Inactive,Net 60,722280,Arjun Kumar
+CUST00348,Jackson-Booker,Enterprise,Telecom,West,Singapore,Robinbury,robertstimothy@lewis-rojas.org,(734)680-7970x5097,2024-08-09,Active,Net 45,214685,Arjun Kumar
+CUST00349,Smith Ltd,SMB,Manufacturing,West,Australia,South Michael,jordanjames@robertson.info,8244376545,2026-02-27,Suspended,Net 30,110545,Arjun Kumar
+CUST00350,Rodriguez-Gonzales,Government,Healthcare,East,UK,Martinstad,tsmith@rodriguez.com,(366)850-2374,2025-10-03,Active,Net 45,617201,Priya Nair
+CUST00351,"Simpson, Maldonado and Anderson",Enterprise,Finance,South,UK,Shawfurt,danielrodriguez@martinez.net,6306569067,2025-09-23,Inactive,Net 15,535278,Rahul Sharma
+CUST00352,Hodges and Sons,Government,Healthcare,North,UK,Lake William,juanwilson@gamble-wright.biz,571.389.2392,2022-09-21,Active,Net 15,275469,John Thomas
+CUST00353,Johnson-Mooney,Government,Telecom,North,Singapore,South Andres,christopherwilliams@warren-graves.com,356.670.8604,2024-09-08,Suspended,Net 60,73312,Sneha Patel
+CUST00354,Hahn-Dawson,Government,Telecom,West,Australia,West Patty,blakewilliams@morris.org,362-247-5541,2026-04-16,Inactive,Net 45,893441,Sneha Patel
+CUST00355,Rivera Ltd,Retail,Logistics,South,Australia,Juliashire,john43@cruz.org,709-633-7118,2025-08-18,Suspended,Net 45,539626,Arjun Kumar
+CUST00356,Ferguson and Sons,SMB,Education,East,Australia,East Jamesside,patricia85@west-love.biz,476-688-0294,2021-12-25,Active,Net 30,905684,Priya Nair
+CUST00357,"Brown, Compton and Lee",SMB,Healthcare,North,Australia,Simpsonside,martinkaren@hart-myers.org,632-602-9390x878,2023-06-21,Inactive,Net 45,680585,Sneha Patel
+CUST00358,Erickson-Arnold,Enterprise,Manufacturing,North,USA,East Brandon,kellybowman@ho-nelson.com,+1-433-881-0595x5184,2024-02-08,Inactive,Net 15,237604,Sneha Patel
+CUST00359,Galloway-Garrett,SMB,Manufacturing,North,Singapore,Port Michaelview,jonathansmith@irwin.com,001-464-998-3735x4396,2023-07-26,Active,Net 45,513547,John Thomas
+CUST00360,"Barber, Richardson and Barrera",Government,Manufacturing,West,Australia,South Hunterburgh,jacobhenry@white.com,(293)312-1637x6182,2024-10-23,Inactive,Net 30,678419,Priya Nair
+CUST00361,Smith-Serrano,Retail,Telecom,South,UK,East Johnland,douglas90@rosario.net,001-551-232-7972x4572,2026-03-21,Active,Net 15,862467,Sneha Patel
+CUST00362,"Adams, Stephens and Smith",SMB,Finance,North,USA,North Amyville,othomas@perez.com,(343)761-7213x145,2022-08-08,Active,Net 15,103352,Rahul Sharma
+CUST00363,Mclean-Gillespie,Retail,IT,North,India,New Edwardchester,carol62@mcdaniel.com,975-341-0225x267,2022-07-23,Inactive,Net 60,53631,Sneha Patel
+CUST00364,"Simmons, Acosta and Thomas",Enterprise,Finance,South,USA,Wandaburgh,fgomez@olson-dudley.org,+1-552-836-6878x8788,2022-04-22,Active,Net 60,439878,Priya Nair
+CUST00365,"Espinoza, Rose and Frank",Retail,Healthcare,South,India,Lake Christopher,aaron05@wells.com,(324)472-8633x302,2024-10-21,Suspended,Net 15,57099,Sneha Patel
+CUST00366,"Johnson, Hanna and Watson",Government,Manufacturing,West,Singapore,Lake Bonniefort,anthonydiaz@sanchez.org,(422)272-8476x57041,2021-11-13,Active,Net 45,273332,Sneha Patel
+CUST00367,"Potter, Gordon and Smith",Retail,IT,East,UK,Fraziermouth,samantha84@perez.com,962.736.9036x28917,2025-01-15,Active,Net 15,602370,John Thomas
+CUST00368,Martin-Pratt,Retail,IT,North,Singapore,Leeville,millercarrie@johnson-campbell.net,213-590-4383,2023-11-20,Active,Net 60,191214,Arjun Kumar
+CUST00369,Davila PLC,Government,Telecom,East,UK,New Valeriefort,williamschristopher@smith-kelly.com,(483)256-5215x6818,2026-08-04,Suspended,Net 45,638315,John Thomas
+CUST00370,Woods-Melton,Government,Finance,North,Australia,West Evanmouth,mcclurechristopher@hall.com,001-228-889-8572x54596,2023-08-18,Inactive,Net 30,962735,Priya Nair
+CUST00371,Shea PLC,SMB,Logistics,West,Singapore,East Ashleyfort,ballarddouglas@payne-novak.com,317.452.4214x9551,2025-07-07,Active,Net 45,111063,Rahul Sharma
+CUST00372,Andersen-Good,Enterprise,Finance,East,USA,Santosberg,bonillatracy@trevino-morales.org,+1-227-558-9551x68740,2026-05-14,Suspended,Net 15,232051,Arjun Kumar
+CUST00373,Moore Inc,SMB,IT,North,India,Nicholasshire,onash@sawyer-caldwell.com,778.371.1216x636,2024-04-17,Inactive,Net 45,922637,Priya Nair
+CUST00374,Davies-Tucker,SMB,Manufacturing,West,Singapore,Wilsonmouth,gardnerstacy@bowman.org,5962056730,2025-03-11,Suspended,Net 60,853585,Sneha Patel
+CUST00375,King-Thompson,Enterprise,Logistics,West,Singapore,North Joshua,evansjennifer@warren-caldwell.com,(801)965-4235,2025-08-22,Inactive,Net 45,197977,Rahul Sharma
+CUST00376,"Barker, Martin and Horton",Retail,Finance,East,India,Ritashire,jmorrow@gonzalez.com,450-927-2751x64807,2026-07-07,Active,Net 60,875146,Arjun Kumar
+CUST00377,Johnson Ltd,SMB,IT,South,Singapore,South Heather,carolynrobinson@farley.org,9558044817,2025-02-01,Inactive,Net 60,752164,Arjun Kumar
+CUST00378,Bell-Daniels,Retail,Healthcare,South,India,Danielburgh,lpatterson@larson.biz,+1-349-911-1109x6179,2025-11-16,Active,Net 45,342985,Rahul Sharma
+CUST00379,"Shaffer, Contreras and Christian",Retail,IT,East,USA,East Kimberly,ewilson@bell.biz,+1-860-253-8444x4630,2021-09-23,Active,Net 15,548685,Sneha Patel
+CUST00380,Hernandez LLC,SMB,Education,West,Singapore,Matthewshire,zallen@jensen.com,001-862-562-6582,2022-06-11,Suspended,Net 60,501157,John Thomas
+CUST00381,"Owen, Gordon and Welch",Enterprise,Education,West,Australia,Cameronview,stacyharris@johnson.org,(909)781-9602,2023-03-08,Active,Net 30,194129,Sneha Patel
+CUST00382,Delgado and Sons,Enterprise,Logistics,West,UK,Jamesbury,qtownsend@hill.com,+1-391-917-9112x4421,2024-09-01,Inactive,Net 45,534814,John Thomas
+CUST00383,Myers Group,Government,Telecom,North,UK,South Charlesland,gracebrooks@schultz-hayes.com,(740)929-9015,2026-03-30,Active,Net 15,116912,John Thomas
+CUST00384,Moore Ltd,Government,Education,East,Australia,Saraborough,herreraapril@robinson.com,905.523.1244,2022-05-18,Inactive,Net 45,154555,Rahul Sharma
+CUST00385,Erickson-Pearson,Retail,Manufacturing,East,USA,Mcgeefort,zhunt@wright.com,(719)394-2376x7694,2024-11-08,Inactive,Net 60,465872,Arjun Kumar
+CUST00386,Gonzalez-Gomez,Enterprise,Healthcare,North,Singapore,South Garyton,brenda49@clements.com,(756)425-3135,2024-04-08,Suspended,Net 60,813711,Priya Nair
+CUST00387,Smith Ltd,SMB,Healthcare,North,USA,Lake Markmouth,rachel81@campbell-lewis.com,784-591-9665,2023-04-10,Active,Net 60,810109,John Thomas
+CUST00388,Lang Group,Government,Finance,North,Australia,West Robertville,ujackson@reyes.org,7742260880,2022-03-09,Active,Net 60,490917,Priya Nair
+CUST00389,Davis-Lang,SMB,Finance,South,Singapore,Joshuastad,xmiller@snyder-williams.com,001-377-715-9103x002,2025-04-20,Active,Net 30,427869,Rahul Sharma
+CUST00390,Jackson and Sons,SMB,Manufacturing,North,Singapore,Lisaside,villamiranda@ware-williams.com,714-459-6422x9712,2026-07-25,Suspended,Net 60,936514,John Thomas
+CUST00391,Walsh-Barnett,Enterprise,Finance,West,Australia,New Timothy,ubray@webb.com,(883)531-1703x037,2025-09-29,Inactive,Net 60,771909,John Thomas
+CUST00392,Peterson PLC,SMB,Manufacturing,South,Australia,Kathleenport,grios@sloan.com,(379)483-6314x6249,2025-07-08,Inactive,Net 60,693942,Sneha Patel
+CUST00393,Mcgee and Sons,SMB,Education,South,Singapore,South Jacobtown,cstanley@baker-mcintosh.com,(763)326-8685x074,2022-01-05,Active,Net 15,982883,Rahul Sharma
+CUST00394,"Reyes, Reilly and Lee",Government,Logistics,West,Australia,South Gregory,alyssa78@rodriguez-williams.com,331-600-9431,2023-07-10,Inactive,Net 45,721447,Sneha Patel
+CUST00395,"Lyons, Sullivan and Long",Retail,Finance,East,Singapore,Lake Madison,tyler23@walsh-mccarthy.com,001-401-728-9743x2512,2025-06-20,Inactive,Net 60,902129,Priya Nair
+CUST00396,Rivers Ltd,Government,Logistics,West,Singapore,Pattersontown,terriibarra@shelton.org,(579)407-3710x094,2022-11-04,Suspended,Net 15,118926,John Thomas
+CUST00397,Garcia Ltd,SMB,Manufacturing,West,USA,Shaunstad,elizabeth45@smith-gomez.com,597.814.8026x32570,2024-08-26,Inactive,Net 15,225006,Arjun Kumar
+CUST00398,Garner and Sons,Retail,Healthcare,West,Australia,Fowlerview,harcher@baker.com,969-764-4309x85916,2024-01-19,Inactive,Net 45,711616,Rahul Sharma
+CUST00399,Montes Group,SMB,Logistics,West,India,South Erin,cindy24@roberts-marsh.com,203.249.1074x065,2023-09-26,Suspended,Net 60,339530,John Thomas
+CUST00400,Bell LLC,Enterprise,Telecom,South,Australia,North Jennifer,wendygonzalez@hull.com,466.861.4494,2024-05-03,Active,Net 15,488469,Arjun Kumar
+CUST00401,"Taylor, Saunders and Wright",Retail,Logistics,East,Singapore,Spencerport,christopher97@white.com,(987)858-5756,2025-01-31,Suspended,Net 45,457688,Priya Nair
+CUST00402,Johnson-Hansen,Retail,Manufacturing,North,Singapore,Davisberg,kristin98@martinez-daniels.org,306-726-0787x0104,2022-06-04,Active,Net 30,215937,John Thomas
+CUST00403,Cunningham-Vaughn,Enterprise,Healthcare,North,Australia,North Joyhaven,mileszachary@yang.com,340-579-3110x2918,2023-05-02,Inactive,Net 15,795466,Sneha Patel
+CUST00404,Wells PLC,Government,Manufacturing,East,USA,Myersville,richard23@green.org,562-902-2328,2025-09-06,Suspended,Net 30,906985,John Thomas
+CUST00405,Roberts-Garcia,Enterprise,Manufacturing,West,Australia,Richardsonview,zcruz@marshall.com,2479196094,2021-12-16,Active,Net 15,819097,Sneha Patel
+CUST00406,Estes-Mcdonald,Retail,Education,South,Singapore,Hillburgh,vincent83@orr-warren.net,622-859-5724,2022-03-05,Inactive,Net 45,499830,Priya Nair
+CUST00407,"Webb, Estes and Obrien",Government,IT,West,India,New Jeanette,david59@bailey.com,5233117753,2023-01-28,Inactive,Net 15,980997,Arjun Kumar
+CUST00408,"Stafford, Campos and Fisher",Retail,Telecom,North,Singapore,North Cherylville,bradfordcharles@obrien-pittman.com,517-462-9833x47743,2025-04-15,Active,Net 60,990756,Arjun Kumar
+CUST00409,"Stokes, Lee and Perkins",SMB,Education,South,Singapore,East Arthurberg,wardricky@lin.net,833.897.8559x8217,2022-03-14,Suspended,Net 45,69675,Priya Nair
+CUST00410,"Miller, Patton and Evans",Retail,Education,East,USA,South Jerryside,andrew44@warner-jones.com,318-993-8984x6908,2023-11-01,Active,Net 15,361877,Arjun Kumar
+CUST00411,"Johnson, Morgan and Green",Enterprise,Manufacturing,West,UK,Pamelaton,jamesmontoya@glass-alvarado.com,371.999.0516,2022-09-12,Inactive,Net 30,416008,Sneha Patel
+CUST00412,Cummings-Garcia,Retail,Finance,North,UK,Romerostad,ywoods@smith.com,001-438-396-0870x66266,2025-04-27,Suspended,Net 30,802254,Priya Nair
+CUST00413,Prince LLC,Retail,Healthcare,West,Australia,Jameschester,allenchristopher@perez.net,001-400-630-1027,2021-12-19,Inactive,Net 30,445755,Rahul Sharma
+CUST00414,Bailey-Rios,Enterprise,Finance,North,USA,West David,hmendoza@jones.info,001-353-274-5843x845,2024-07-17,Active,Net 45,299430,Priya Nair
+CUST00415,Thornton-Howell,Enterprise,IT,East,UK,Christianberg,kevintran@watson.com,877.610.7044,2022-04-25,Active,Net 15,603343,Arjun Kumar
+CUST00416,Ramirez PLC,Enterprise,Manufacturing,North,India,Simpsonfurt,owallace@gray.biz,+1-604-508-5095,2021-10-29,Inactive,Net 15,991763,Priya Nair
+CUST00417,Swanson-Howell,Enterprise,Logistics,South,India,Pattonton,transtephanie@mitchell.biz,001-298-642-6732,2023-12-06,Active,Net 60,147852,Sneha Patel
+CUST00418,Lutz PLC,SMB,Telecom,South,UK,Matthewfurt,gilbertmichael@king.com,949-254-2770,2025-07-25,Active,Net 45,356773,Rahul Sharma
+CUST00419,Church Group,Enterprise,Finance,South,USA,South Brian,hillcheryl@ashley-alexander.com,001-944-772-3229x03102,2021-12-14,Active,Net 30,63140,Sneha Patel
+CUST00420,"Love, Brown and Klein",SMB,Education,West,India,Theresatown,amber09@bailey.net,618.413.3595x616,2021-10-21,Inactive,Net 30,639921,John Thomas
+CUST00421,Lawson-Ward,Enterprise,Logistics,South,Singapore,Merrittstad,sdunlap@johnson.com,001-701-593-5889,2024-10-26,Suspended,Net 60,563317,Arjun Kumar
+CUST00422,"Johnson, Barber and James",Government,Finance,East,UK,North Susanbury,hryan@yates.net,754.339.4353x537,2023-08-24,Suspended,Net 15,874255,Sneha Patel
+CUST00423,Oconnor-Beard,Retail,Finance,East,Singapore,Christopherside,melendezdenise@hall.com,+1-736-392-9445,2022-04-16,Inactive,Net 60,474149,Sneha Patel
+CUST00424,Fisher-Lucero,Government,Education,West,Singapore,Chenborough,nancysmith@barnes.info,001-712-406-0212x8866,2025-01-06,Inactive,Net 45,499916,Rahul Sharma
+CUST00425,"Hawkins, Joseph and Wilson",Retail,Finance,West,USA,Brittanyville,jonessamantha@lozano-mccoy.biz,872-729-8120x9957,2025-04-29,Active,Net 45,150417,Rahul Sharma
+CUST00426,Romero PLC,Retail,Education,East,Singapore,Shirleyville,kennethpeterson@holmes.biz,756-352-2036x8499,2024-07-20,Active,Net 30,91971,John Thomas
+CUST00427,Martin-Roberts,SMB,Logistics,West,India,Gonzalesburgh,sheila49@middleton.com,(513)288-2090,2025-10-01,Suspended,Net 30,678138,John Thomas
+CUST00428,Wood LLC,Enterprise,Healthcare,East,Singapore,Dennishaven,mariahphillips@moran.info,(774)612-4151x31528,2025-06-14,Inactive,Net 60,172775,Arjun Kumar
+CUST00429,"Moss, Powers and Jones",Retail,IT,West,Australia,Patriciaton,tgarcia@stewart.com,+1-903-629-6334x7272,2022-09-19,Active,Net 60,318854,Rahul Sharma
+CUST00430,Walters Inc,Government,Logistics,West,USA,North Ryan,ngrant@thompson.biz,+1-793-957-8243x4776,2024-02-09,Inactive,Net 60,472355,Arjun Kumar
+CUST00431,Robinson LLC,SMB,Logistics,West,UK,Montesmouth,elainewilson@huber-guerrero.com,001-562-877-9630x448,2022-02-10,Active,Net 45,967786,Priya Nair
+CUST00432,"Ingram, Green and Stewart",Government,Education,North,Singapore,Lambchester,dgreen@washington-robinson.com,276-239-2831x9952,2024-10-27,Active,Net 45,663375,Sneha Patel
+CUST00433,Deleon LLC,Retail,Telecom,West,UK,Katieside,penaapril@nichols-galloway.net,(334)825-5638x3000,2025-09-20,Active,Net 60,89901,John Thomas
+CUST00434,Moore LLC,Retail,IT,West,UK,East Crystalbury,nelsondavid@rios-anderson.com,411-386-0089,2024-12-03,Inactive,Net 45,417631,Rahul Sharma
+CUST00435,Decker LLC,Government,Manufacturing,East,Australia,Ronaldtown,joshua31@costa-johnston.biz,261-936-8474x8836,2024-12-11,Active,Net 30,693340,Priya Nair
+CUST00436,Farmer-Klein,Retail,Telecom,South,USA,Walkertown,cwise@woods-rodriguez.com,921-518-2379x31269,2022-02-05,Suspended,Net 45,582726,John Thomas
+CUST00437,King-Collins,Enterprise,IT,East,India,Maryton,hannah96@adams.net,387.853.5778x8116,2022-09-05,Active,Net 60,571121,Priya Nair
+CUST00438,Martin Ltd,SMB,Education,North,UK,East Jamesville,mccluretyler@pratt.net,(460)641-6448x59592,2026-01-17,Active,Net 60,147756,Rahul Sharma
+CUST00439,"Harris, Mendez and Klein",Retail,Education,South,UK,Thomasborough,sara22@espinoza.com,(971)704-3318,2022-05-27,Active,Net 45,792849,Arjun Kumar
+CUST00440,Weber PLC,Retail,IT,North,USA,North Michael,michaelsmith@hill.org,001-545-696-4883x1921,2023-02-11,Inactive,Net 45,837019,Arjun Kumar
+CUST00441,Elliott-Martinez,SMB,Finance,West,Australia,Riverashire,tammy97@jackson.com,292-422-7051,2025-12-12,Inactive,Net 30,407792,Sneha Patel
+CUST00442,Coleman-Ruiz,Government,Telecom,South,India,Vincentville,annbennett@mccarthy-kelly.net,881-793-2426x87741,2023-02-10,Suspended,Net 45,472225,Priya Nair
+CUST00443,Cline Group,Government,IT,East,India,Jessicaborough,patrickwhite@cowan.com,6942515480,2023-12-08,Active,Net 60,461274,John Thomas
+CUST00444,"Mendoza, Williams and Dominguez",Government,IT,West,Australia,Joshuaton,roysara@chen.net,805-309-2221,2022-01-27,Inactive,Net 30,255735,Arjun Kumar
+CUST00445,Walsh-Brown,Government,Logistics,South,India,Port Amyborough,cookemily@hurst-jackson.org,001-458-906-6013x8241,2021-12-22,Active,Net 60,741958,John Thomas
+CUST00446,Franklin-Barker,Retail,Finance,North,Australia,Thompsontown,joshua51@owens-huff.com,001-271-411-2125,2021-09-07,Suspended,Net 15,493316,Arjun Kumar
+CUST00447,Little Group,SMB,Telecom,West,India,Lake Sherryport,julierojas@brown-mccarthy.com,929-656-3343x244,2022-05-20,Suspended,Net 15,553650,Arjun Kumar
+CUST00448,Kelly-Cox,Enterprise,Logistics,South,UK,Gallegosburgh,herringbrenda@medina.biz,(943)658-8418x343,2021-11-11,Active,Net 30,385098,John Thomas
+CUST00449,Holmes Ltd,Government,Healthcare,East,USA,South Donald,nathan69@morris.com,6264755125,2025-07-26,Inactive,Net 30,771037,Arjun Kumar
+CUST00450,"Lopez, Johnson and Lamb",Enterprise,Education,East,UK,Watkinschester,pwells@cummings-burke.info,+1-464-403-8166x49690,2024-02-25,Inactive,Net 45,586397,John Thomas
+CUST00451,"Sanford, Bender and Gonzalez",Retail,IT,North,USA,East Elizabeth,wallerkyle@solis.biz,(470)523-2441,2023-04-29,Inactive,Net 45,103909,Rahul Sharma
+CUST00452,Davis-Sanchez,Government,Education,East,UK,Adamburgh,cory86@lewis.info,001-831-362-5265x469,2024-07-18,Inactive,Net 45,991768,Arjun Kumar
+CUST00453,Santiago-Cordova,Retail,Manufacturing,East,India,East Nicoleburgh,mikemorgan@bishop.com,+1-832-473-0346x1562,2024-01-08,Suspended,Net 60,260294,Rahul Sharma
+CUST00454,Hughes-Nicholson,Retail,Healthcare,East,Singapore,West Susanchester,frankfleming@marshall.com,+1-816-202-5298x67076,2024-03-04,Inactive,Net 60,362229,Sneha Patel
+CUST00455,Green-Walters,Enterprise,Telecom,West,India,Shawfort,megan51@pollard.biz,+1-612-205-9438x97607,2022-08-18,Inactive,Net 15,896143,Rahul Sharma
+CUST00456,Stevens-Williams,Retail,Telecom,North,UK,Johnnymouth,katie08@white-kelly.com,354.309.1508x632,2022-09-01,Active,Net 45,192312,John Thomas
+CUST00457,"Thomas, Snyder and Orozco",SMB,Education,North,Singapore,Teresabury,uwilliams@johnson-lynch.com,(581)654-6602x4161,2024-03-05,Suspended,Net 60,231211,Priya Nair
+CUST00458,"Palmer, Dickerson and Sanchez",Enterprise,Manufacturing,South,India,West Ashleyborough,shill@hill.com,+1-662-944-0630x624,2024-04-20,Suspended,Net 45,529926,Sneha Patel
+CUST00459,Walker Inc,SMB,IT,West,Singapore,Jeffreyport,omatthews@murphy.com,255-357-2773x82646,2025-09-25,Suspended,Net 45,377231,Priya Nair
+CUST00460,"Mercer, Miller and Adkins",Enterprise,Logistics,North,Australia,Kevinmouth,bcraig@weber.org,(896)360-4873x682,2022-06-03,Active,Net 45,451067,Rahul Sharma
+CUST00461,Robinson-Gay,Enterprise,Manufacturing,North,Australia,Gregoryburgh,wpierce@barnes.com,451-458-8863x67747,2024-12-30,Active,Net 60,665458,Rahul Sharma
+CUST00462,Smith-Gallegos,SMB,IT,West,Australia,Douglasville,acarpenter@jenkins-fields.org,229.798.1996,2023-09-21,Suspended,Net 45,805111,Arjun Kumar
+CUST00463,Hudson Group,SMB,Telecom,South,India,West Andrewfurt,melissamartin@sharp-allen.info,001-935-524-1039x773,2023-02-06,Suspended,Net 30,177795,Sneha Patel
+CUST00464,Porter-Rodriguez,SMB,Manufacturing,East,Singapore,Monicaburgh,stevenrivers@goodman.biz,676.816.4819x80770,2021-12-07,Active,Net 15,914434,Arjun Kumar
+CUST00465,Ross-Ho,Government,Logistics,West,Singapore,Pattersonville,thomasjose@molina.biz,+1-752-637-3415x17734,2025-05-18,Inactive,Net 60,557820,John Thomas
+CUST00466,Cobb-Lyons,SMB,Telecom,South,USA,Brookeberg,aimeejohnson@elliott-reeves.com,001-829-647-7422x294,2023-07-15,Suspended,Net 45,899256,Rahul Sharma
+CUST00467,Rosales PLC,Retail,Logistics,South,India,Eddietown,michael88@woods-yoder.com,+1-929-885-8567x2872,2021-09-19,Inactive,Net 15,974220,Arjun Kumar
+CUST00468,"Arroyo, Peterson and Parker",SMB,Finance,East,UK,East Joshua,santosmichael@hudson-fowler.com,001-383-235-0615x8148,2025-05-24,Inactive,Net 15,161032,Sneha Patel
+CUST00469,"Mills, Sanchez and Robles",Enterprise,IT,East,UK,Lake Sharon,jeremylove@williams.com,+1-541-531-2840,2023-09-02,Active,Net 60,932487,Rahul Sharma
+CUST00470,"Gill, Woods and Garcia",Enterprise,Manufacturing,South,India,West Kristyland,timothyramos@gonzalez-daniels.com,+1-974-290-9617x399,2023-09-27,Inactive,Net 15,370701,John Thomas
+CUST00471,Guzman-Vasquez,Retail,Telecom,North,USA,West William,stephanie44@wright.com,+1-871-627-0587x7221,2022-05-26,Suspended,Net 15,315972,Rahul Sharma
+CUST00472,Peterson-Mcdaniel,Retail,Education,South,UK,East Kimberly,jasonshaw@miranda-kennedy.com,+1-739-925-2362x292,2025-02-21,Inactive,Net 30,232024,Sneha Patel
+CUST00473,"Adams, Cantu and Kennedy",Enterprise,IT,North,Australia,Nathanport,jessica57@coleman-long.biz,5605652740,2023-10-10,Suspended,Net 45,426742,Rahul Sharma
+CUST00474,Wall-Johnson,Government,Manufacturing,West,UK,Gibbsmouth,laurenwilliamson@gates-rodriguez.com,(657)897-0673,2022-02-06,Inactive,Net 45,726746,Sneha Patel
+CUST00475,Brown LLC,Government,Education,North,India,Amandamouth,daniel21@rowland-oconnor.com,(794)693-8173,2026-05-01,Suspended,Net 60,816535,Sneha Patel
+CUST00476,"Roth, Norris and Taylor",Enterprise,Manufacturing,West,Australia,Port Kristimouth,rebecca73@morris.info,(953)244-9021x666,2026-02-02,Active,Net 15,769449,Arjun Kumar
+CUST00477,Durham PLC,SMB,Manufacturing,West,India,Allenchester,moyermorgan@tyler-vasquez.org,511-391-8182x81979,2025-04-05,Suspended,Net 30,522406,Sneha Patel
+CUST00478,Owens-Preston,Government,Logistics,North,Singapore,Lake Mark,deborahmorgan@norman.com,(594)709-6003x5624,2026-02-14,Inactive,Net 30,88211,Rahul Sharma
+CUST00479,Valdez-Gonzalez,Government,Telecom,South,Australia,Patriciashire,jacobhernandez@white-johnson.org,5286515533,2022-12-26,Suspended,Net 45,60651,Arjun Kumar
+CUST00480,Ritter-Hall,Enterprise,IT,West,USA,Port Michael,natalieblackburn@flowers.com,336.407.7633x691,2025-11-27,Suspended,Net 45,457592,Priya Nair
+CUST00481,"Ramsey, Martinez and Sherman",Government,Manufacturing,North,USA,South Joystad,robert31@ward.info,3068661554,2024-02-26,Inactive,Net 45,715418,Sneha Patel
+CUST00482,Key Inc,SMB,Education,South,UK,Liutown,jessica50@boone.org,5286227009,2024-10-03,Inactive,Net 15,155848,Arjun Kumar
+CUST00483,"Perry, Moore and Thompson",Government,Telecom,South,UK,Lake Lisa,michaelbuckley@johnson.com,(254)895-0050x7026,2026-01-23,Active,Net 30,936364,John Thomas
+CUST00484,Moore Inc,Retail,Education,West,USA,Phyllisland,hmcneil@marshall-perry.net,329.904.7742x585,2025-10-15,Active,Net 15,734029,Arjun Kumar
+CUST00485,"Guerra, Duncan and Martinez",Government,Healthcare,North,Australia,Port Sheri,donnapaul@powell.com,824-757-9889x425,2022-10-31,Suspended,Net 30,911396,Rahul Sharma
+CUST00486,"Doyle, Rosales and Adkins",Government,Logistics,North,India,Welchborough,alexiswalters@martin.com,001-977-653-9673,2026-03-28,Inactive,Net 60,846948,John Thomas
+CUST00487,Wilson-Ramirez,SMB,Telecom,East,Australia,Matthewburgh,matthew78@alvarado-barnett.com,001-684-415-6082x13711,2024-07-21,Suspended,Net 15,742148,Priya Nair
+CUST00488,Chavez-Tran,SMB,Telecom,West,USA,Port Teresaburgh,gwilkins@thomas.com,001-503-458-9298x80858,2024-10-12,Suspended,Net 45,653291,Arjun Kumar
+CUST00489,Garcia and Sons,Government,IT,East,UK,Port Sarah,amberfriedman@garrison-ramirez.biz,668-567-7524x0148,2022-03-01,Inactive,Net 45,378821,Arjun Kumar
+CUST00490,Fischer and Sons,Retail,IT,West,USA,South Lynn,petermoore@myers-lee.com,934-426-1923,2023-12-09,Active,Net 45,118803,Sneha Patel
+CUST00491,Smith-Wilson,Retail,IT,North,Singapore,Alexandriafort,donnaevans@weaver.info,(815)440-6417,2025-09-28,Suspended,Net 15,692249,Arjun Kumar
+CUST00492,Walker-Garcia,SMB,Telecom,East,UK,Johnfort,ofisher@grimes.com,985-564-5101x739,2025-04-14,Suspended,Net 45,979242,John Thomas
+CUST00493,"Baker, Osborn and Mckenzie",Enterprise,IT,South,Australia,Castroshire,qobrien@williams-rodriguez.com,001-211-735-9966,2025-05-04,Inactive,Net 60,561603,Arjun Kumar
+CUST00494,Berry-Mills,SMB,IT,East,Singapore,Lichester,robinsonhenry@bautista.com,001-474-555-5347x0574,2026-05-07,Active,Net 15,485633,Sneha Patel
+CUST00495,"Wong, Yang and Mullins",SMB,Healthcare,East,UK,Port Vincent,cookchristina@trujillo.com,616-959-7263,2024-07-30,Active,Net 60,827881,John Thomas
+CUST00496,Shaffer-Huang,SMB,Education,East,UK,East Marcus,lopezlance@graves.net,(669)413-1196,2024-06-27,Inactive,Net 45,731777,John Thomas
+CUST00497,"Gomez, Anderson and Cruz",Enterprise,Logistics,North,USA,Christinaland,yvonne70@kelley.com,2736333732,2023-09-02,Active,Net 30,789452,Sneha Patel
+CUST00498,Mathews Group,SMB,Telecom,North,UK,Perryside,robertabbott@ross.biz,001-745-546-5535x8512,2026-03-05,Suspended,Net 30,735763,Priya Nair
+CUST00499,"Anderson, Pollard and Mueller",Retail,IT,North,Australia,Nicholsville,jenniferrobbins@bray.com,001-407-297-7961,2026-05-11,Active,Net 45,900350,Arjun Kumar
+CUST00500,Hansen-Brown,Enterprise,Manufacturing,West,Singapore,Thomasberg,flemingcameron@hill.com,001-597-862-6374x845,2022-10-28,Active,Net 15,459064,Rahul Sharma
