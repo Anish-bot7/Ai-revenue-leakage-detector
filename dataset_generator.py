@@ -109,12 +109,13 @@ df = pd.DataFrame(records)
 # -----------------------------------------
 # Save
 # -----------------------------------------
+df["Leakage_Type"] = df["Leakage_Type"].astype(str)
 
 df.to_csv(
     "datasets/revenue_leakage_dataset.csv",
-    index=False
+    index=False,
+    na_rep=""
 )
-
 df.to_excel(
     "datasets/revenue_leakage_dataset.xlsx",
     index=False
