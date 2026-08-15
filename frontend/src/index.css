@@ -1,0 +1,207 @@
+/* ============================================================
+   DESIGN SYSTEM — AI Revenue Leakage Detector
+   Dark glassmorphism fintech aesthetic
+   ============================================================ */
+
+:root {
+  /* --- Color Palette --- */
+  --bg-primary:     #080b14;
+  --bg-secondary:   #0d1117;
+  --bg-card:        #111827;
+  --bg-elevated:    #1a2235;
+  --bg-hover:       #1f2d44;
+
+  /* --- Accent --- */
+  --accent:         #6366f1;
+  --accent-light:   #818cf8;
+  --accent-glow:    rgba(99, 102, 241, 0.18);
+  --accent-border:  rgba(99, 102, 241, 0.4);
+
+  /* --- Semantic --- */
+  --success:        #10b981;
+  --success-bg:     rgba(16, 185, 129, 0.12);
+  --success-border: rgba(16, 185, 129, 0.35);
+
+  --warning:        #f59e0b;
+  --warning-bg:     rgba(245, 158, 11, 0.12);
+  --warning-border: rgba(245, 158, 11, 0.35);
+
+  --danger:         #ef4444;
+  --danger-bg:      rgba(239, 68, 68, 0.12);
+  --danger-border:  rgba(239, 68, 68, 0.35);
+
+  --info:           #38bdf8;
+  --info-bg:        rgba(56, 189, 248, 0.12);
+  --info-border:    rgba(56, 189, 248, 0.35);
+
+  /* --- Text --- */
+  --text-primary:   #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted:     #475569;
+  --text-inverse:   #0a0b14;
+
+  /* --- Borders --- */
+  --border:         rgba(255, 255, 255, 0.07);
+  --border-strong:  rgba(255, 255, 255, 0.14);
+
+  /* --- Shadows --- */
+  --shadow-sm:      0 1px 3px rgba(0, 0, 0, 0.4);
+  --shadow-md:      0 4px 16px rgba(0, 0, 0, 0.5);
+  --shadow-lg:      0 12px 40px rgba(0, 0, 0, 0.6);
+  --shadow-glow:    0 0 30px rgba(99, 102, 241, 0.2);
+
+  /* --- Typography --- */
+  --font:           'Inter', system-ui, -apple-system, sans-serif;
+
+  /* --- Spacing --- */
+  --radius-sm:      6px;
+  --radius-md:      10px;
+  --radius-lg:      16px;
+  --radius-xl:      24px;
+
+  /* --- Transitions --- */
+  --transition:     all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ============================================================
+   RESET & BASE
+   ============================================================ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ============================================================
+   TYPOGRAPHY
+   ============================================================ */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font);
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+h1 { font-size: clamp(1.75rem, 4vw, 2.5rem); }
+h2 { font-size: clamp(1.25rem, 2.5vw, 1.75rem); }
+h3 { font-size: clamp(1rem, 2vw, 1.25rem); }
+
+p { color: var(--text-secondary); line-height: 1.65; }
+
+a {
+  color: var(--accent-light);
+  text-decoration: none;
+  transition: var(--transition);
+}
+a:hover { color: var(--text-primary); }
+
+code {
+  font-family: 'Fira Code', ui-monospace, Consolas, monospace;
+  font-size: 0.875em;
+  background: var(--bg-elevated);
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  color: var(--accent-light);
+}
+
+/* ============================================================
+   SCROLLBAR
+   ============================================================ */
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-secondary); }
+::-webkit-scrollbar-thumb { background: var(--bg-elevated); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+/* ============================================================
+   UTILITY CLASSES
+   ============================================================ */
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.glass {
+  background: rgba(17, 24, 39, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border);
+}
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  transition: var(--transition);
+}
+
+.card:hover {
+  border-color: var(--border-strong);
+  box-shadow: var(--shadow-md);
+}
+
+/* ============================================================
+   ANIMATIONS
+   ============================================================ */
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.5; }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position:  200% 0; }
+}
+
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(99,102,241,0.15); }
+  50%       { box-shadow: 0 0 40px rgba(99,102,241,0.35); }
+}
+
+.animate-fade-in  { animation: fadeIn  0.5s ease both; }
+.animate-slide-up { animation: slideUp 0.6s ease both; }

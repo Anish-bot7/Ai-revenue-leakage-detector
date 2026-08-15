@@ -1,0 +1,122 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid var(--border);
+  background: rgba(8, 11, 20, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  gap: 16px;
+}
+
+/* --- Logo --- */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  text-align: left;
+  transition: var(--transition);
+}
+
+.logo:hover { opacity: 0.85; }
+
+.logoIcon {
+  width: 40px; height: 40px;
+  background: var(--accent-glow);
+  border: 1px solid var(--accent-border);
+  border-radius: var(--radius-md);
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+
+.logoText {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.logoTitle {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.logoSub {
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+/* --- Right side --- */
+.right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+/* --- Status dot --- */
+.statusDot {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.75rem;
+  color: var(--success);
+  font-weight: 500;
+}
+
+.pulse {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--success);
+  position: relative;
+}
+
+.pulse::after {
+  content: '';
+  position: absolute;
+  inset: -3px;
+  border-radius: 50%;
+  border: 1.5px solid var(--success);
+  animation: pingOut 1.5s ease-out infinite;
+}
+
+/* --- Reset button --- */
+.resetBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+  font-family: var(--font);
+}
+
+.resetBtn:hover {
+  border-color: var(--accent-border);
+  color: var(--accent-light);
+  background: var(--accent-glow);
+}
+
+@keyframes pingOut {
+  0%   { transform: scale(1); opacity: 0.8; }
+  100% { transform: scale(2.5); opacity: 0; }
+}

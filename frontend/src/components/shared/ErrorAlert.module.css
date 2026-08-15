@@ -1,0 +1,60 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 40px 32px;
+  text-align: center;
+  background: var(--danger-bg);
+  border: 1px solid var(--danger-border);
+  border-radius: var(--radius-lg);
+  max-width: 480px;
+  margin: 0 auto;
+  animation: fadeIn 0.4s ease both;
+}
+
+.iconWrap {
+  width: 56px; height: 56px;
+  background: rgba(239,68,68,0.15);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+}
+
+.content { display: flex; flex-direction: column; gap: 8px; }
+
+.title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--danger);
+}
+
+.message {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+}
+
+.retryBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 20px;
+  background: var(--danger);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.retryBtn:hover {
+  background: #dc2626;
+  transform: translateY(-1px);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

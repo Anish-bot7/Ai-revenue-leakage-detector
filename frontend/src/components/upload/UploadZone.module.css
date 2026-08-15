@@ -1,0 +1,200 @@
+.container { width: 100%; }
+
+/* === Drop Zone === */
+.zone {
+  position: relative;
+  border: 2px dashed var(--border-strong);
+  border-radius: var(--radius-xl);
+  padding: 56px 32px;
+  text-align: center;
+  cursor: pointer;
+  transition: var(--transition-slow);
+  background: var(--bg-card);
+  overflow: hidden;
+}
+
+/* Animated gradient overlay */
+.zone::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at center, var(--accent-glow) 0%, transparent 70%);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+}
+
+.zone:hover::before,
+.zone:focus-visible::before,
+.dragging::before { opacity: 1; }
+
+.zone:hover,
+.zone:focus-visible {
+  border-color: var(--accent-border);
+  outline: none;
+}
+
+.dragging {
+  border-color: var(--accent);
+  border-style: solid;
+  background: var(--bg-elevated);
+  transform: scale(1.01);
+  box-shadow: 0 0 40px var(--accent-glow);
+}
+
+.hasFile {
+  cursor: default;
+  border-color: var(--success-border);
+  border-style: solid;
+  background: rgba(16,185,129,0.04);
+}
+
+.hasFile::before {
+  background: radial-gradient(ellipse at center, rgba(16,185,129,0.08) 0%, transparent 70%);
+  opacity: 1;
+}
+
+.hasError {
+  border-color: var(--danger-border);
+  border-style: solid;
+}
+
+.hiddenInput {
+  display: none;
+}
+
+/* === Idle state === */
+.idle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.iconWrap {
+  width: 64px; height: 64px;
+  background: var(--bg-elevated);
+  border-radius: var(--radius-lg);
+  display: flex; align-items: center; justify-content: center;
+  border: 1px solid var(--border-strong);
+}
+
+.dragging .iconWrap {
+  background: var(--accent-glow);
+  border-color: var(--accent-border);
+}
+
+.idleText {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.primary {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.clickLink {
+  color: var(--accent-light);
+  font-weight: 600;
+}
+
+.secondary {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.dropNow {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--accent-light);
+}
+
+.formatHints {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.formatTag {
+  padding: 3px 10px;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+/* === File info === */
+.fileInfo {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  justify-content: center;
+}
+
+.fileIcon {
+  width: 48px; height: 48px;
+  background: var(--success-bg);
+  border-radius: var(--radius-md);
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+
+.fileMeta {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  text-align: left;
+}
+
+.fileName {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  max-width: 280px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.fileSize {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.clearBtn {
+  width: 28px; height: 28px;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-strong);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer;
+  color: var(--text-muted);
+  transition: var(--transition);
+  flex-shrink: 0;
+}
+
+.clearBtn:hover {
+  background: var(--danger-bg);
+  border-color: var(--danger-border);
+  color: var(--danger);
+}
+
+/* === Error message === */
+.errorMsg {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  padding: 10px 14px;
+  background: var(--danger-bg);
+  border: 1px solid var(--danger-border);
+  border-radius: var(--radius-md);
+  font-size: 0.8rem;
+  color: var(--danger);
+}
