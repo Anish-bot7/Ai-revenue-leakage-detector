@@ -1,0 +1,6 @@
+Invoice Number,Client,Actual Consumption,Quantity Billed,Expected Revenue,Invoice Total,GST Expected,GST Charged,Discount %,Unit Rate,Invoice Date,Due Date
+M001,Alpha Technologies,"1,500 units","1,450 units","₹20,000","₹19,000","₹3,600","₹3,420","5%","₹10","15/01/2026","15/02/2026"
+M002,Beta Solutions,2000,2000,"25,000 INR","25,000 INR","4,500","4,500","10%","10","15/02/2026","15/03/2026"
+M003,Gamma Industries,"1,250 units","1,150 units","₹18,000","₹16,000","₹3,240","₹2,800","5%","₹15","March 10, 2026","10/04/2026"
+M004,Delta Systems,3000,3000,"35,000","35,000","6,300","6,300","10%","10","10 March 2026","10/04/2026"
+M005,Epsilon Corp,"2,200 units","2,000 units","₹30,000","₹27,000","₹5,400","₹4,860","15%","₹12","15-05-2026","15-06-2026"

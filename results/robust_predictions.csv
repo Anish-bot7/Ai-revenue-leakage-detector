@@ -1,0 +1,6 @@
+Invoice_ID,Prediction,Leakage_Probability,Leakage_Probability_Percentage,Risk_Level,Expected_Amount,Billed_Amount,Potential_Leakage,Risk_Factors
+INV001,Revenue Leakage Detected,0.9999,99.99,HIGH,20000.0,19000.0,1000.0,"Billed amount is ₹1,000.00 lower than expected; Usage difference detected: 50.00; Tax difference detected: 180.00"
+INV002,Revenue Leakage Detected,0.9998,99.98,HIGH,25000.0,25000.0,0.0,ML model detected a billing anomaly
+INV003,Revenue Leakage Detected,0.9999,99.99,HIGH,18000.0,16000.0,2000.0,"Billed amount is ₹2,000.00 lower than expected; Usage difference detected: 100.00; Tax difference detected: 440.00"
+INV004,Revenue Leakage Detected,0.9996,99.96,HIGH,35000.0,35000.0,0.0,ML model detected a billing anomaly
+INV005,Revenue Leakage Detected,0.9999,99.99,HIGH,30000.0,27000.0,3000.0,"Billed amount is ₹3,000.00 lower than expected; Usage difference detected: 200.00; Tax difference detected: 540.00"

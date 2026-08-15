@@ -1,0 +1,6 @@
+invoice_no,client_name,usage,billed_quantity,expected_revenue,total_amount
+MIN001,Alpha Technologies,1500,1450,20000,19000
+MIN002,Beta Solutions,2000,2000,25000,25000
+MIN003,Gamma Industries,1250,1150,18000,16000
+MIN004,Delta Systems,3000,3000,35000,35000
+MIN005,Epsilon Corp,2200,2000,30000,27000

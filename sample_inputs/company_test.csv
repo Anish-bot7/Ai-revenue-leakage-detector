@@ -1,0 +1,6 @@
+invoice_number,customer,actual_consumption,quantity_billed,expected_revenue,invoice_total,gst_expected,gst_charged,discount_percent,unit_rate
+INV001,ABC Technologies,1500,1450,20000,19000,3600,3420,5,10
+INV002,XYZ Ltd,2000,2000,25000,25000,4500,4500,10,10
+INV003,Global Corp,1250,1150,18000,16000,3240,2800,5,15
+INV004,Tech Solutions,3000,3000,35000,35000,6300,6300,10,10
+INV005,Finance Corp,2200,2000,30000,27000,5400,4860,15,12
